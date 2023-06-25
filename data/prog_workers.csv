@@ -1,0 +1,1501 @@
+Firstname,Lastname,Country,Date,Decimal number,Experience,Prog_Language
+Jolyn,Elsinore,Brazil,16-01-1981,8672.38,3,Basic
+Candi,Fax,Norfolk Island,21-03-1998,15095.28,5,C#
+Jessy,Gillan,Central African Republic,02-10-1985,28243.89,2,С++
+Benita,Tice,French Southern Territories,17-08-1975,24273.18,1,С++
+Arlina,Peonir,Canada,25-12-1993,26938.66,3,PHP
+Siana,Magnolia,Comoros,07-11-1988,26763.53,5,Java
+Anallese,Janith,Burkina Faso,26-12-1991,3756.89,5,Assembler
+Renae,Si,Norway,09-03-1971,26410.22,3,SQL
+Rosanne,Rolf,Equatorial Guinea,16-06-1995,17302.22,2,C#
+Joleen,Dex,Sweden,29-07-1978,10571.71,1,Perl
+Ebonee,Teryn,Israel,22-01-1995,3678.47,4,Assembler
+Maryellen,Diann,Palau,02-01-1976,15238.63,4,PHP
+Tonia,Dorine,Turkmenistan,09-05-1985,27960.22,4,PHP
+Clary,Wallis,Germany,12-01-1970,16372.51,5,Assembler
+Jan,Narton,Morocco,05-01-1988,27064.11,2,Python
+Viviene,Kussell,RWANDA,27-11-1996,6300.18,4,SQL
+Janeczka,Macey,Guadeloupe,27-06-1995,5266.52,5,Assembler
+Sissy,Thunell,Mali,07-02-1985,27079.9,2,Perl
+Cassandra,Ursulette,Italy,21-06-1992,18149.04,1,Java
+Sheelagh,Carolin,French Guiana,14-06-1975,15440.76,1,Java
+Jenda,Desai,Philippines,06-10-1972,1530.59,3,Assembler
+Maurene,Erb,Niue,17-07-1989,5627.72,3,Java
+Neila,Jeanne,Wallis and Futuna,06-11-1971,1723.26,3,Python
+Clarice,Shelba,Belize,12-08-1993,12351.02,4,Assembler
+Norine,Ellerey,Austria,28-05-1975,25998.58,3,Perl
+Nollie,Dudley,Saint Lucia,11-03-1981,2460.97,4,PHP
+Lucy,Matthew,Trinidad and Tobago,10-08-1997,5259.48,3,PHP
+Marguerite,Diann,Saint Lucia,27-12-1974,14640.23,1,C#
+Tori,Curren,Switzerland,12-09-1972,12401.59,2,Basic
+Mellicent,Hailee,Mongolia,25-06-1995,6700.07,5,Java
+Gerianna,Hedve,Finland,08-06-1997,15859.13,4,SQL
+Ginnie,Cottle,Eritrea,06-04-1988,26224.25,3,Perl
+Pearline,Edmund,Mayotte,08-07-1974,14357.67,2,Java
+Pollyanna,Gower,Guinea,05-08-1983,4199.06,4,PHP
+Joeann,Vittoria,Haiti,25-01-1987,5834.37,2,Python
+Elfreda,Chrystel,Norway,08-08-1980,3789.27,4,Basic
+Chandra,Aaberg,Guinea,20-07-1999,14708.92,5,С++
+Carolina,Ciro,French Polynesia,12-01-1973,7144.07,2,Java
+Beth,Ehrman,United States,15-01-1975,4429.13,2,С++
+Maye,Vanni,Angola,04-06-1973,2220.61,1,Assembler
+Lelah,Haymes,Gambia,27-03-1970,27859.49,4,C#
+Dolli,Posner,Turkey,04-06-1994,26233.95,4,SQL
+Cristabel,Fax,Ecuador,20-05-1981,6921.65,1,Java
+Almeta,Codding,"Moldova, Republic of",09-05-1992,14346.47,2,Java
+Lanae,Charmine,Lebanon,10-02-1994,4514.53,5,SQL
+Beth,Carleen,Central African Republic,14-02-1980,19779.94,2,Assembler
+Lily,Prober,Liechtenstein,08-06-1987,17326.62,4,PHP
+Margette,Delila,Azerbaijan,29-03-1980,23380.94,5,С++
+Ernesta,Ellord,Burkina Faso,04-10-1990,28785.19,1,С++
+Edyth,Gwenore,"Cote D""Ivoire",13-04-1988,29761.27,1,Java
+Leona,Gahl,Turkey,26-03-1991,4968.72,1,PHP
+Atlanta,Lanita,Comoros,15-12-1991,1741.28,1,C#
+Daphne,Ovid,Sierra Leone,19-12-1977,5581.24,5,C#
+Lucille,Cullin,French Polynesia,17-08-1984,14333.48,5,SQL
+Miquela,Monk,Cambodia,10-09-1980,21735.92,2,PHP
+Kathy,Bashemeth,Fiji,03-05-1970,27587.13,5,Java
+Ezmeralda,Knowling,British Indian Ocean Territory,24-02-1977,26367.34,5,Java
+Mignon,Seumas,Heard Island and Mcdonald Islands,09-12-1976,15564.44,4,Assembler
+Berta,Lacombe,Chad,07-12-1989,9919.21,1,Python
+Andree,Leonard,AndorrA,24-11-1970,11740.99,2,Perl
+Fawne,Harl,Central African Republic,16-01-1997,15016.07,5,Perl
+Konstance,Brodench,Åland Islands,01-08-1979,18833.1,4,Java
+Fayre,Buckler,Jamaica,07-01-1972,12120.56,4,С++
+Correy,Prouty,Uzbekistan,04-10-1986,23630.98,4,C#
+Mildrid,Suanne,Ghana,23-02-1987,20051.32,4,Basic
+Elie,Erb,"Tanzania, United Republic of",08-02-1992,5281.56,5,SQL
+Madelle,Franza,Northern Mariana Islands,31-12-1976,22624.88,1,C#
+Dolli,Persse,"Palestinian Territory, Occupied",08-04-1991,20771.22,4,С++
+Dorice,Delacourt,Afghanistan,02-05-1980,25023.57,4,SQL
+Jobi,Constancy,Macao,09-06-1976,1476.49,2,Assembler
+Ruthe,Yoko,El Salvador,12-08-1992,3614.4,4,Basic
+Mildrid,Zeeba,Guernsey,12-05-1981,27189.88,1,Java
+Rosanne,Sundin,Sao Tome and Principe,26-03-1974,5490.28,4,Java
+Correy,Anton,Cambodia,04-01-1986,25386.18,1,Java
+Tracey,Jagir,Latvia,29-09-1998,28130.01,4,С++
+Gusty,Hachmin,United States,23-03-1983,8098.73,1,Java
+Wynne,Weide,Sao Tome and Principe,28-10-1998,15949.59,5,Basic
+Melodie,Grosz,Guinea,24-04-1977,4572.27,4,Java
+Jorry,Wattenberg,Peru,17-02-1985,17114.82,3,Assembler
+Sheree,Clara,Tonga,04-02-1987,7286.42,4,Perl
+Mireielle,Brian,Nauru,17-12-1997,9569.25,5,С++
+Vivia,Halla,Martinique,28-02-1984,2413.69,3,Perl
+Barbi,Helfand,Saint Kitts and Nevis,26-05-1979,19278.49,3,Perl
+Basia,Liebermann,Eritrea,22-05-1977,19423.46,2,C#
+Hyacinthe,Flita,Anguilla,08-01-1982,20138.77,2,SQL
+Lucille,Eben,Zimbabwe,04-05-1985,15492.17,2,SQL
+Georgetta,Sheedy,Barbados,12-12-1970,5772.18,5,Perl
+Estell,Randene,Gibraltar,05-12-1978,21481.14,5,С++
+Lynnea,Clywd,Peru,16-11-1981,6037.16,2,Assembler
+Cissiee,Raul,Ecuador,08-04-1981,16676.78,4,Perl
+Ardenia,Granoff,Kenya,26-10-1985,24911.46,5,SQL
+Lanae,Drisko,"Korea, Republic of",09-08-1984,29327.02,5,Java
+Adore,Oscar,Grenada,28-08-1987,2121.72,4,PHP
+Lolita,Fabiola,Swaziland,16-03-1982,21256.89,4,С++
+Hermione,Noam,"Korea, Democratic People""S Republic of",21-04-1997,24171.57,5,Java
+Fawne,Taima,Guinea,14-05-1984,17068.98,1,SQL
+Bobinette,Cristi,Spain,16-10-1996,21576.58,1,Assembler
+Sharai,Schwejda,Mongolia,23-02-1971,13059.12,5,Python
+Katharina,Adrienne,Nauru,11-01-1992,25918.38,2,PHP
+Wilma,Yorick,Norway,10-06-1989,12288.06,4,PHP
+Lory,Tryck,"Congo, The Democratic Republic of the",03-07-1995,27003.44,3,Perl
+Amelia,Plato,"Congo, The Democratic Republic of the",31-12-1977,27365.74,5,Assembler
+Alyssa,Stephie,Zambia,10-06-1977,8011.76,2,С++
+Nannie,Pauly,Argentina,08-05-1978,17715.58,1,Perl
+Hermione,Belldas,Denmark,23-09-1990,6585.03,1,Perl
+Bernie,Creamer,Estonia,12-01-1998,22337.11,1,Python
+Delilah,Sprage,Comoros,27-07-1981,24533.39,3,Java
+Betta,Kravits,Russian Federation,19-03-1970,11384.25,2,Assembler
+Jemie,Narton,Belarus,11-06-1978,13256.6,4,С++
+Meriel,Ashok,Chad,31-05-1990,26137.63,5,PHP
+Roz,Marisa,Sweden,27-01-1991,24530.65,4,Perl
+Paulita,Greyson,Cuba,19-02-1982,18966.79,3,С++
+Vevay,Sophronia,Romania,26-03-1990,19092.13,3,SQL
+Phedra,Dorcy,Denmark,21-10-1982,22274.52,3,Basic
+Celestyna,Shuler,Cameroon,30-09-1986,11064.99,1,Java
+Penelopa,Alfons,Kazakhstan,29-10-1986,3433.55,1,Python
+Marjie,Oriana,Zimbabwe,19-10-1976,14824.77,2,PHP
+Nessie,Ailyn,Bolivia,14-09-1974,16290.4,4,C#
+Shandie,August,Gibraltar,16-02-1981,20472.4,4,C#
+Vere,Eliathas,Central African Republic,27-06-1977,11039.4,2,SQL
+Frances,Darrell,Anguilla,24-11-1972,6334.18,1,Basic
+Donnie,Middleton,Venezuela,26-04-1979,11816.85,5,PHP
+Viviene,Yuille,Senegal,15-09-1999,5334.67,4,Assembler
+Krystle,Halsey,Benin,16-05-1988,23442,1,PHP
+Margette,Freddi,United States Minor Outlying Islands,23-09-1982,15916.04,5,PHP
+Benita,Schroth,Malaysia,16-08-1978,10823.33,1,Perl
+Evita,Chinua,Norfolk Island,13-11-1993,13148.89,3,С++
+Kayla,Erb,Bhutan,22-01-1999,13056.54,2,Assembler
+Carmencita,Linehan,Namibia,27-01-1996,20624.49,3,Perl
+Alyda,Buckler,Liechtenstein,07-07-1988,1023.47,2,SQL
+Elora,Tatianas,Jamaica,01-11-1978,22074.03,3,Assembler
+Kial,Alva,Malawi,15-06-1996,24677.26,4,Perl
+Moyna,Joachim,Angola,02-01-1972,21877.03,1,Perl
+Gavrielle,Miru,Germany,14-03-1972,11021.13,2,Basic
+Kassey,Stover,Barbados,13-10-1994,29393.31,3,С++
+Ellette,Sharl,Ukraine,21-10-1971,23013.11,2,C#
+Zaria,Hanshaw,Mozambique,28-03-1996,15666.92,2,Java
+Perry,Anyah,Monaco,27-05-1985,22417.35,5,C#
+Janis,Trace,Turks and Caicos Islands,15-08-1981,24222.59,4,Java
+Ilse,Audly,Åland Islands,28-11-1981,8333.25,5,Python
+Sadie,Fredi,Ecuador,23-05-1988,19260.8,1,Python
+Concettina,Lamoree,Chad,18-08-1982,20827.62,2,SQL
+Ottilie,Suanne,Brunei Darussalam,19-05-1987,18400.94,5,Basic
+Nita,Aprile,Jordan,01-04-1996,3498.83,4,Java
+Heida,Bonucci,Botswana,01-10-1993,1447.62,1,Python
+Amelia,Armanda,Cyprus,19-09-1991,19233.45,2,С++
+Valli,Ardra,Russian Federation,04-09-1989,14187.31,5,SQL
+Liana,Pettiford,Marshall Islands,05-08-1986,14454.41,5,С++
+Suzette,Kermit,"Iran, Islamic Republic Of",24-07-1976,26729.68,1,Python
+Celene,Grobe,Saint Lucia,10-08-1989,22171.69,1,Python
+Annora,Luhe,Grenada,26-03-1981,19815,5,С++
+Stephanie,Annice,Lesotho,08-11-1995,20864.13,4,Perl
+Lucy,Henrie,Switzerland,31-10-1984,24470.79,1,PHP
+Hannis,Anyah,Nicaragua,04-01-1976,2752.08,3,С++
+Hallie,Carey,"Cote D""Ivoire",30-05-1987,1954.63,5,Basic
+Britte,Tice,Guernsey,08-01-1983,28767.79,1,С++
+Corina,Travax,Malta,22-08-1991,18919.01,5,PHP
+Vevay,Katrine,Lebanon,06-02-1981,23095.36,2,Basic
+Basia,Fabiola,France,30-09-1971,15954.89,5,С++
+Angelique,Talia,"Micronesia, Federated States of",20-03-1995,11000.05,1,PHP
+Desirae,Hepsibah,RWANDA,06-12-1992,28371.38,1,Python
+Rebeca,Khorma,Colombia,10-10-1980,13104.12,3,Java
+Pollyanna,Granoff,Ethiopia,01-11-1985,21982.91,4,С++
+Ermengarde,Greyson,"Iran, Islamic Republic Of",29-12-1984,29467.42,1,Assembler
+Lorne,Bultman,Panama,20-07-1981,28488.31,4,SQL
+Gerrie,Rona,Angola,20-01-1981,26572.8,5,C#
+Kirstin,Pelagias,Wallis and Futuna,31-08-1980,8213.02,5,Python
+Phedra,Longfellow,"Micronesia, Federated States of",05-04-1977,1265.88,3,Assembler
+Johna,Edee,Mauritania,29-01-1983,2262.98,4,SQL
+Fredericka,Chinua,Nicaragua,08-01-1995,20727.93,3,Python
+Valli,Mich,Mauritius,28-05-1995,18191.81,2,C#
+Bettine,Nore,Faroe Islands,16-03-1976,28187.43,1,Basic
+Cathyleen,Campball,Saint Helena,27-04-1989,28583.57,1,Assembler
+Josephine,Arne,India,30-04-1980,20901.91,5,Python
+Annaliese,Fulmer,Myanmar,18-05-1984,16866.33,5,C#
+Courtnay,Delila,Norway,16-06-1972,28629.93,1,Java
+Rubie,Audly,Luxembourg,24-12-1978,29290.82,4,Basic
+Kary,Maurine,Singapore,13-12-1978,22952.83,1,Basic
+Miquela,Hylan,Paraguay,01-09-1979,23300.98,5,C#
+Dagmar,Luhe,Slovenia,17-06-1994,16288.77,2,Java
+Gavrielle,Bashemeth,Congo,28-10-1985,9354.97,2,Basic
+Ann-Marie,Engdahl,South Georgia and the South Sandwich Islands,29-03-1996,2892.57,3,Java
+Rivalee,Yerkovich,Sweden,19-06-1998,23297.7,3,Python
+Fidelia,Norvol,Haiti,13-07-1986,20694.09,3,Python
+Millie,Bollay,Benin,26-11-1984,1221.07,4,Basic
+Lenna,Natalia,Bahrain,10-04-1996,21024.43,5,C#
+Lucy,Longfellow,Malaysia,31-03-1979,8623.68,4,C#
+Marika,Norvol,Tonga,30-08-1971,12081.16,3,Basic
+Aimil,Ariella,Nepal,05-04-1987,17881.74,3,Python
+Frank,Nunci,Iraq,03-09-1974,10722.94,2,PHP
+Trixi,Salvidor,Haiti,26-09-1984,6429.22,1,Basic
+Kayla,McLaughlin,Viet Nam,01-07-1983,17862.46,2,C#
+Feliza,Honoria,Belize,27-01-1990,27437.18,3,Assembler
+Joceline,Bigner,Papua New Guinea,31-03-1999,13971.47,1,С++
+Ayn,Bahr,Malaysia,23-12-1998,14983.38,2,Perl
+Leeanne,Prober,Equatorial Guinea,02-08-1999,6141.37,3,Assembler
+Carree,Adlare,Armenia,28-06-1979,13637.75,2,Python
+Blake,Brittani,Jersey,21-12-1994,24811.41,4,С++
+Annice,Arley,Puerto Rico,04-09-1982,2985.02,3,SQL
+Amelia,Brodench,Liechtenstein,02-09-1984,6653.29,1,PHP
+Evita,Sigfrid,Portugal,21-02-1974,9830.63,3,PHP
+Millie,Evangelia,Tajikistan,20-10-1985,20917.58,3,Perl
+Larine,Martguerita,Afghanistan,10-09-1988,7028.68,5,Python
+Adore,Oriana,Kazakhstan,14-06-1990,11397.39,4,SQL
+Elbertina,Wallis,Gabon,08-04-1977,8581.78,3,Python
+Teddie,Brady,Venezuela,10-11-1991,9670.01,3,Basic
+Tressa,Jena,Singapore,23-12-1998,13809.48,2,C#
+Juliane,Hull,Finland,04-11-1971,12571.59,1,Basic
+Candy,Baptlsta,Iceland,05-09-1989,13789.07,4,SQL
+Zaria,Ventre,Brazil,04-10-1973,15558.02,3,PHP
+Felice,Haymes,Malawi,11-08-1983,15014.56,5,SQL
+Ada,Sacken,Guyana,27-04-1987,6013.26,4,Basic
+Kaia,Lemuela,Comoros,31-03-1995,9857.19,3,Java
+Harrietta,Kellby,Svalbard and Jan Mayen,10-03-1984,1998.89,5,Basic
+Karina,Ulphia,Saint Lucia,19-12-1997,28267.44,4,Basic
+Florencia,Girardo,Switzerland,14-10-1994,10639.57,1,Assembler
+Dawn,Dowski,Sweden,07-03-1981,17321.19,1,Assembler
+Ileana,Ephrem,"Lao People""S Democratic Republic",11-05-1994,19911.25,4,Basic
+Devina,Lalitta,Malaysia,07-05-1978,8035.16,4,SQL
+Deirdre,Loleta,Czech Republic,26-12-1992,27332.02,4,PHP
+Edyth,Melony,New Zealand,28-04-1972,16694.4,2,SQL
+Stephanie,Parsaye,Syrian Arab Republic,23-07-1981,22795.86,3,C#
+Oona,Muriel,Cape Verde,08-04-1987,14983.58,1,Basic
+Lita,Erlandson,British Indian Ocean Territory,25-01-1995,4572.5,3,Basic
+Maye,Merat,AndorrA,19-02-1983,27515.22,1,С++
+Peri,Berl,Isle of Man,03-08-1974,11869.58,4,PHP
+Lelah,Boehike,Turks and Caicos Islands,06-02-1985,18498.63,1,Java
+Ronna,Arne,Tonga,27-09-1990,7005.18,4,PHP
+Lilith,Lenny,Åland Islands,13-10-1973,21601.27,2,Assembler
+Willetta,Prober,Swaziland,27-05-1983,6113.69,5,Python
+Rhoda,Rossner,Tuvalu,02-05-1970,22341.08,2,Python
+Oona,Blisse,Suriname,23-05-1981,26026.48,3,Python
+Jacquetta,Prober,Svalbard and Jan Mayen,13-10-1988,21392.16,2,PHP
+Lucy,Lauraine,Mexico,12-07-1979,5221.18,1,Perl
+Ingrid,Screens,Greece,03-07-1978,26742.34,3,Assembler
+Carmencita,Wesle,Falkland Islands (Malvinas),02-11-1984,2298.05,4,SQL
+Jemie,Tiffa,Hong Kong,14-04-1993,5880.24,4,С++
+Ira,Cyrie,Guatemala,17-02-1998,28305.93,2,Basic
+Angela,Jammal,Russian Federation,08-07-1980,6262.57,5,С++
+Demetris,Philipp,Turkey,31-07-1999,10950.84,4,Basic
+Di,Behre,British Indian Ocean Territory,29-08-1989,26451.79,3,Assembler
+Caressa,Grobe,Netherlands,12-02-1978,7097.73,2,Perl
+Sara-Ann,Ilka,Serbia and Montenegro,29-04-1988,14604.67,2,Basic
+Sophia,Joeann,Falkland Islands (Malvinas),24-10-1981,15579.47,4,С++
+Joleen,Moseley,Kyrgyzstan,05-11-1994,3835.74,2,Assembler
+Randa,Gladstone,Papua New Guinea,26-10-1972,12858.81,2,Assembler
+Micheline,Marisa,Gabon,11-09-1989,16624.9,1,Python
+Ulrike,Bebe,Pitcairn,15-03-1996,9277.4,3,PHP
+Jessy,Suanne,Russian Federation,08-05-1981,11187.86,3,Basic
+Bobinette,Clie,Zambia,02-08-1987,1168.28,5,C#
+Karena,Isacco,Canada,23-06-1970,7338.91,3,C#
+Ardeen,Sundin,Cameroon,19-04-1980,26018.68,2,Perl
+Lynde,Phyllis,Central African Republic,17-11-1990,2805.8,4,С++
+Edith,Munn,Georgia,11-05-1992,9339.17,5,Perl
+Hannis,Tillford,San Marino,19-06-1987,18579.63,1,SQL
+Gilda,Mott,Ghana,30-03-1984,24926.38,2,С++
+Wanda,Ovid,Falkland Islands (Malvinas),09-01-1994,18887.58,4,Java
+Lelah,Mott,Egypt,31-07-1971,5768.34,4,Assembler
+Lucille,Goerke,Costa Rica,14-11-1982,1517.41,2,C#
+Kathi,Flita,Colombia,14-12-1978,19943.17,5,Perl
+Josephine,Izaak,Bosnia and Herzegovina,17-01-1987,9042.96,1,Basic
+Melanie,Rozanna,Lebanon,20-12-1973,3834.18,4,Python
+Sadie,Winnick,Malta,01-10-1997,3277.37,4,Basic
+Ardeen,Nerita,Holy See (Vatican City State),09-06-1974,25026.97,5,Perl
+Heida,Hoenack,Serbia and Montenegro,24-05-1983,6120.31,1,С++
+Arlina,Alarise,Chile,28-07-1978,25949.1,3,C#
+Monika,Emanuel,Ecuador,12-07-1972,4615.98,3,PHP
+Goldie,Shaver,Jersey,10-02-1998,17089.25,4,Basic
+Rhoda,Brieta,Hungary,27-08-1991,15684.5,2,C#
+Sadie,Lane,Japan,11-10-1979,5899.39,2,Assembler
+Marcy,Estella,Ukraine,14-02-1987,7750.59,5,Assembler
+Nita,Center,Paraguay,29-07-1996,18505.99,4,PHP
+Marjie,Pillsbury,Guyana,05-01-1998,20698.71,2,Assembler
+Alleen,Gusella,Netherlands Antilles,27-02-1977,19669.23,1,PHP
+Josephine,Lipson,Togo,16-02-1992,25679.79,2,Java
+Shel,Leopold,Greece,11-04-1979,29280.1,3,PHP
+Doro,Juan,Australia,21-11-1973,16412.32,2,Python
+Edyth,Gunn,Cape Verde,03-05-1977,29018.24,4,Perl
+Sharlene,Sundin,Israel,07-11-1970,18101.68,4,SQL
+Marguerite,Rese,Uzbekistan,19-06-1987,13757.23,4,SQL
+Christal,McLaughlin,Bolivia,20-11-1991,5785.01,1,Basic
+Gusty,Marsden,Sudan,31-10-1985,21209.77,2,Python
+Daryl,Trinetta,Papua New Guinea,13-09-1992,12455.6,2,PHP
+Belva,Kiersten,French Southern Territories,26-05-1981,24897.87,2,Perl
+Florie,Presber,India,10-11-1998,10858.53,1,Assembler
+Charmaine,Marcellus,"Congo, The Democratic Republic of the",13-11-1991,19417.01,3,C#
+Margette,Ranjiv,"Lao People""S Democratic Republic",16-04-1972,11890.37,5,C#
+Sadie,Genna,"Iran, Islamic Republic Of",03-03-1981,6704.9,3,Basic
+Alyda,Peti,Bahamas,27-08-1970,22297.13,3,PHP
+Taffy,Kat,Chile,13-05-1999,2190.96,3,PHP
+Nessie,Rhu,RWANDA,14-08-1997,13586.91,3,C#
+Abbie,Bertold,Poland,20-04-1978,15144.2,5,Basic
+Cissiee,Klemperer,Turkmenistan,24-05-1978,19712.03,2,SQL
+Marylou,Forrer,Argentina,15-12-1988,20696.95,4,Basic
+Hermione,Prouty,Ecuador,30-04-1988,17478.41,2,SQL
+Louella,Prober,Eritrea,10-11-1984,5643.8,2,С++
+Corly,Othilia,Svalbard and Jan Mayen,22-03-1975,9777.04,1,Perl
+Lusa,Nickola,Mauritius,20-07-1970,26593.78,4,Java
+Cathie,Dudley,Central African Republic,26-12-1976,16345.35,3,Perl
+Paule,Ellord,Aruba,02-11-1995,27751.06,2,SQL
+Marcelline,Tamsky,Guadeloupe,11-06-1992,14433.35,3,Java
+Ellette,Kunin,Romania,04-09-1993,12511.2,2,C#
+Kore,Darrell,Japan,13-04-1999,17609.98,2,C#
+Lily,Gaynor,Martinique,02-08-1996,29238.19,1,Python
+Belva,Dahlia,Singapore,21-08-1974,7989.76,1,Python
+Carlie,Meter,Honduras,17-04-1976,20433.65,5,Assembler
+Vivia,Virgin,Macao,08-02-1983,29638.65,1,PHP
+Michaelina,Belldas,Bahrain,06-02-1982,10686.01,1,C#
+Elsie,Rossner,China,30-10-1997,26912.74,5,C#
+Ronna,Bevin,Morocco,07-04-1983,27313.65,3,Python
+Rochette,Corilla,Northern Mariana Islands,15-04-1975,24374.17,4,Java
+Fina,Reinke,Pakistan,11-05-1970,14049.04,4,Perl
+Harrietta,Sparhawk,Australia,13-02-1994,4025.13,2,С++
+Rori,Rossner,Sudan,24-08-1996,17364.13,2,Java
+Alyda,Penelopa,AndorrA,15-11-1996,28714.25,2,Python
+Glenda,Knowling,Morocco,01-12-1991,17930.32,5,Java
+Binny,Jena,Colombia,19-04-1977,5019.93,1,C#
+Blinni,Abernon,Mozambique,28-12-1982,5831.12,3,Python
+Lesly,Sacken,Western Sahara,04-07-1991,18389.93,2,C#
+Evaleen,Boycey,Syrian Arab Republic,07-11-1988,14758.14,1,PHP
+Dyann,Irmine,Vanuatu,19-02-1993,20223.55,1,Basic
+Riannon,Levey,Austria,24-10-1971,24011.24,3,Java
+Ninnetta,Emmy,Uzbekistan,17-05-1998,12434.73,1,Perl
+Candi,Merriott,Reunion,11-09-1995,27192.48,5,SQL
+Roslyn,Imelida,Kiribati,12-09-1982,20341.7,5,Basic
+Mary,Odysseus,Liechtenstein,12-03-1971,29725.59,3,PHP
+Annabela,Tufts,Bouvet Island,24-03-1998,18244.02,1,C#
+Elsie,Uund,Grenada,14-10-1994,3027.28,3,SQL
+Adore,Dex,United States Minor Outlying Islands,27-09-1999,18408.15,1,С++
+Letizia,Olnee,Burundi,28-02-1986,5031.26,5,С++
+Rosaline,Warthman,New Caledonia,16-07-1977,14240.96,5,Assembler
+Sadie,Christine,Mongolia,28-09-1992,11418.87,2,Python
+Annabela,Jerold,"Virgin Islands, U.S.",05-05-1995,7459.07,2,C#
+Zia,Arne,Bermuda,24-02-1992,21484.44,4,Perl
+Kristina,Devlen,Grenada,06-10-1991,14984.05,3,Assembler
+Vere,Pacorro,Japan,03-02-1994,21120.21,5,С++
+Jere,Charity,Canada,21-06-1990,5828.68,3,SQL
+Deirdre,Pillsbury,Mexico,03-02-1984,11033.47,5,SQL
+Tarra,Bebe,Guernsey,11-05-1988,7591.2,1,Basic
+Halette,Edmund,Cambodia,11-04-1977,6728.59,4,Basic
+Carmencita,Bonilla,Barbados,16-08-1988,2061.12,3,С++
+Gilda,Engdahl,United Arab Emirates,19-05-1970,10582.76,4,Java
+Verla,Martsen,Greece,30-09-1984,26269.04,3,SQL
+Allis,Carolin,Lesotho,20-04-1976,13006,1,Java
+Quintina,Wesle,Fiji,18-04-1984,16023.68,2,SQL
+Edith,Masao,Uganda,11-03-1983,25079.47,5,SQL
+Sean,Primalia,Grenada,19-06-1994,24741.59,1,Python
+Eolanda,Magdalen,Mexico,25-10-1988,28682.53,1,Basic
+Gusty,Olin,Kiribati,23-01-1972,12302.65,5,Java
+Alleen,Mauer,"Korea, Democratic People""S Republic of",21-11-1996,28959.71,2,PHP
+Kerrin,Norvol,"Tanzania, United Republic of",10-10-1993,25388.33,5,PHP
+Beverley,Herrera,Czech Republic,20-09-1995,7500.47,5,Basic
+Daphne,Clarissa,Gabon,20-09-1987,21911.61,2,Perl
+Gusty,Modie,Morocco,30-03-1988,11821.63,4,PHP
+Flory,Hebner,Chad,08-11-1972,10929.44,3,Perl
+Renie,Hedve,"Palestinian Territory, Occupied",05-01-1974,12986.08,3,Java
+Farrah,Bates,Burkina Faso,29-12-1999,28305.62,5,PHP
+Jorry,Doig,Sweden,24-07-1980,26149.69,4,Assembler
+Letizia,Millda,Gambia,30-10-1976,9331.79,2,C#
+Gilligan,Mendez,RWANDA,29-07-1970,16623.95,5,С++
+Jinny,Alisia,Mali,08-09-1989,24034.96,1,PHP
+Jacenta,Berriman,Falkland Islands (Malvinas),14-05-1975,11689.37,5,Java
+Elvira,Libna,Jamaica,09-05-1982,13798.63,4,Basic
+Marleah,Carey,Christmas Island,15-05-1986,16425.22,5,Basic
+Olivette,Kosey,Oman,08-03-1997,27035.04,3,C#
+Roberta,Saunderson,Niger,01-03-1994,5095.33,1,C#
+Lelah,Holtz,Sao Tome and Principe,17-08-1984,2991.15,5,Basic
+Gilda,Colleen,Kyrgyzstan,11-04-1982,1100.11,5,Java
+Andree,Lesley,Belgium,04-11-1984,4108.64,4,С++
+Lesly,Charity,Azerbaijan,10-03-1999,20681.29,3,SQL
+Kristina,Roxanna,Singapore,11-05-1998,6144.48,2,C#
+Gui,Martsen,Bahamas,28-04-1977,11998.54,3,Python
+Marguerite,Ephrem,Trinidad and Tobago,11-03-1972,26907.93,2,С++
+Peri,Salchunas,Saint Pierre and Miquelon,09-07-1971,4860.03,1,PHP
+Anthia,Marijo,Luxembourg,25-11-1990,26833.07,5,Perl
+Kalina,Ogren,Norway,07-06-1973,15891.56,5,Java
+Roslyn,Waite,Albania,17-11-1995,16795.34,5,Python
+Kerrin,Goode,New Zealand,26-03-1983,27511.63,2,C#
+Shannah,Lay,Mozambique,25-06-1987,8969.14,1,Python
+Deane,Whittaker,Guernsey,28-08-1999,7327.55,1,PHP
+Vanessa,Bryna,Liberia,24-04-1978,2950.17,5,SQL
+Cissiee,Blake,"Taiwan, Province of China",25-11-1991,24907.05,2,PHP
+Lindie,Sherfield,"Taiwan, Province of China",02-04-1972,16284.31,1,C#
+Zaria,Weitman,Switzerland,12-11-1984,6983.51,5,C#
+Merle,Sinegold,San Marino,21-10-1978,20810.45,1,С++
+Ada,Ade,Belize,28-10-1972,6846.41,4,PHP
+Lolita,Hurley,Albania,14-03-1990,27741.48,2,С++
+Ardeen,Rheingold,Holy See (Vatican City State),18-01-1993,26647.33,3,PHP
+Amalie,Ailyn,Trinidad and Tobago,08-06-1986,12236.37,3,Perl
+Annice,Vernier,Croatia,25-12-1970,29467.81,4,Java
+Jean,Persse,Bolivia,21-07-1998,18588.83,2,Basic
+Marleah,Penelopa,Afghanistan,06-03-1972,3304.41,2,Java
+Ardenia,Justinn,Saint Lucia,14-02-1976,15383.33,3,Perl
+June,Burch,Tunisia,18-06-1992,11693.46,3,С++
+Vere,Sophronia,RWANDA,27-03-1995,6856.04,5,Python
+Mireielle,Gualtiero,Luxembourg,07-01-1979,14805.2,5,PHP
+Ardenia,Adamsen,Luxembourg,22-03-1971,15029.17,3,PHP
+Harrietta,Stav,Cambodia,14-10-1994,27426.63,1,C#
+Nanete,Rheingold,"Korea, Democratic People""S Republic of",11-08-1980,14178.93,5,C#
+Dari,Chrystel,"Congo, The Democratic Republic of the",15-05-1981,13149.05,1,С++
+Romona,Fink,Serbia and Montenegro,17-08-1995,12157.78,4,C#
+Chickie,Dawkins,Liechtenstein,26-07-1973,21349.94,4,SQL
+Diena,Naor,Holy See (Vatican City State),14-10-1974,25354.62,2,SQL
+Deirdre,Syd,Yemen,18-06-1976,29677.76,2,PHP
+Elise,Mendez,Argentina,18-04-1973,19511.79,3,Assembler
+Linet,Howlyn,Grenada,21-06-1995,28155.56,4,Assembler
+Laure,Mott,Turkey,14-08-1997,13173.56,2,C#
+Sam,Mehalek,RWANDA,18-07-1970,24520.05,3,C#
+Nananne,Narton,Serbia and Montenegro,30-11-1972,11946.76,1,С++
+Alia,Pierette,United States,28-07-1976,17119,5,SQL
+Joelly,Kenney,Nepal,06-07-1971,20011.91,1,Java
+Danika,Arvo,British Indian Ocean Territory,05-09-1987,13907.6,3,Java
+Ronna,Poll,Chile,02-03-1974,2074.05,4,C#
+Tobe,Sisile,Russian Federation,05-12-1972,12080.2,4,SQL
+Ninnetta,Lalitta,Sweden,13-11-1986,19269.5,2,Python
+Karolina,Ietta,Dominica,21-02-1974,19401.27,2,Assembler
+Frank,Bryna,Puerto Rico,22-02-1976,1246.02,1,Python
+Suzette,Saint,Poland,27-03-1995,23870.34,2,Perl
+Catharine,Gert,Philippines,01-11-1993,4040.78,5,Assembler
+Nyssa,Niccolo,Lebanon,08-01-1981,2118.62,1,Basic
+Viviene,Longfellow,Isle of Man,07-07-1998,11244.93,5,Java
+Krystle,Macey,"Palestinian Territory, Occupied",10-07-1996,26718.83,3,PHP
+Isa,Carey,Monaco,22-01-1978,19436.91,1,PHP
+Georgina,Ezar,Mozambique,11-09-1983,23053.46,3,Python
+Gratia,Lucienne,Serbia and Montenegro,12-11-1980,27472.23,1,Assembler
+June,Brodench,Burkina Faso,06-05-1972,28207.81,1,Perl
+Mildrid,Payson,Estonia,24-08-1999,2913.98,1,Assembler
+Mara,Whittaker,Cook Islands,02-05-1991,4657.34,1,Perl
+Mamie,Velick,"Korea, Republic of",18-01-1990,2689.98,2,C#
+Sue,Paine,"Congo, The Democratic Republic of the",02-10-1979,11882.38,2,Perl
+Misha,Muriel,Austria,25-04-1970,2113.85,2,Java
+Lulita,Gino,Cape Verde,17-12-1998,1063.33,1,Python
+Dawn,Kamaria,Monaco,07-12-1996,5340.38,1,С++
+Cassondra,Shields,Austria,29-11-1991,26823.56,3,Python
+Paule,Bendick,Holy See (Vatican City State),11-02-1998,1350.19,3,Python
+Jinny,Israeli,Nigeria,14-11-1972,26688.28,5,Perl
+Petronia,Corabella,Belarus,15-12-1977,5955.73,1,PHP
+Agathe,Artie,Singapore,07-01-1990,19371.25,5,C#
+Trixi,Gaspard,"Macedonia, The Former Yugoslav Republic of",12-02-1995,8244.14,4,C#
+Delilah,Sandye,Gabon,18-06-1983,5276.69,4,C#
+Cyndie,Sheng,France,29-11-1987,22749.56,2,PHP
+Shaine,Niles,Australia,04-03-1985,15843.68,2,Java
+Taffy,Allina,Latvia,25-06-1980,28572.22,3,Basic
+Angela,Dyche,Bouvet Island,03-05-1975,4187.31,3,PHP
+Gabriellia,Aloise,Mayotte,21-01-1978,12222.45,4,Python
+Carree,Phi,Qatar,26-01-1981,8925.85,5,Assembler
+Teriann,Hieronymus,Palau,21-03-1996,23107.36,5,Perl
+Ezmeralda,Fulmer,Macao,31-07-1971,17155.67,3,Basic
+Roslyn,Donell,Martinique,06-10-1982,24935.43,5,Basic
+Blondelle,Lowry,Brunei Darussalam,11-06-1982,1646.52,5,Java
+Helena,Wolfgram,Grenada,13-09-1995,17213.12,5,PHP
+Kerrin,McGrody,Norfolk Island,21-01-1978,26937.4,3,Perl
+Cathie,Arvo,Antarctica,08-04-1989,6332.22,4,PHP
+Krystle,Cullin,Spain,16-06-1994,22952.18,1,Perl
+Emylee,Sinegold,"Virgin Islands, U.S.",03-06-1971,12445.61,3,Basic
+Wileen,Kristi,Switzerland,04-08-1973,1423.21,2,Python
+Dorene,Philoo,"Iran, Islamic Republic Of",29-07-1997,28647.61,2,С++
+Natka,Shanley,Svalbard and Jan Mayen,21-12-1986,1411.09,4,PHP
+Merrie,Martsen,Malawi,04-11-1977,15007.52,3,SQL
+Felice,Swanhildas,Aruba,18-06-1984,5943.73,3,Python
+Charissa,Llovera,France,06-08-1995,8349.15,3,С++
+Melina,Norvol,New Zealand,09-04-1988,25179.03,2,C#
+Constance,Kolnick,Latvia,24-07-1998,23732.49,3,SQL
+Carree,Minetta,Guatemala,13-07-1976,23265.5,1,Java
+Ardys,Ax,Samoa,21-09-1978,29141.59,4,С++
+Sheelagh,Vanni,"Iran, Islamic Republic Of",09-11-1982,8120.91,3,Assembler
+Lynde,Roxanna,Faroe Islands,29-10-1988,24111.71,4,Basic
+Melisent,Kelula,Canada,02-04-1996,3525.64,5,Java
+Ericka,Dituri,Saudi Arabia,27-03-1995,4270.59,3,Assembler
+Modestia,Kellby,Saint Pierre and Miquelon,07-01-1995,9395.5,2,C#
+Maryellen,Tarrant,Singapore,12-07-1993,23129.9,1,Perl
+Florencia,Shaver,Ethiopia,20-07-1984,11323.83,2,Basic
+Mellicent,Bashemeth,Cameroon,09-04-1994,7858.58,4,Java
+Dominga,Valerio,Romania,29-06-1985,12267.99,2,Java
+Kirstin,Brandice,American Samoa,31-07-1975,23344.86,2,Perl
+Leanna,Morgun,Lebanon,04-12-1993,6248.35,1,Basic
+Ann-Marie,Karna,"Iran, Islamic Republic Of",01-06-1980,18279.92,3,Java
+Cissiee,Lutero,Georgia,19-01-1996,7619.7,1,PHP
+Genevra,Drisko,Egypt,23-04-1982,8371.96,3,SQL
+Kore,Astra,Equatorial Guinea,06-11-1971,21618.93,5,Python
+Charissa,Helfand,Equatorial Guinea,30-06-1992,7257.57,2,Basic
+Chrystel,Isacco,Syrian Arab Republic,23-06-1981,2833.95,3,Perl
+Shaine,Zina,Ethiopia,21-01-1986,23641.05,2,Basic
+Ninnetta,Kronfeld,American Samoa,02-01-1990,14982.68,4,PHP
+Lyssa,Alva,Tonga,02-07-1983,14423.18,2,Basic
+Lizzie,Giff,Venezuela,07-01-1975,22376.72,4,C#
+Penelopa,Odell,Holy See (Vatican City State),11-07-1977,16731.89,2,C#
+Melanie,Pauly,Central African Republic,11-05-1991,15275.39,2,С++
+Amalie,Solitta,Bolivia,17-12-1970,24590.67,4,Python
+Clo,Jary,Cayman Islands,28-09-1976,15798.19,1,SQL
+Konstance,Baudin,Kiribati,24-11-1978,13753.57,3,C#
+Roz,Sandye,Romania,14-06-1982,16038.04,2,SQL
+Nataline,Sherfield,Liberia,29-01-1981,19798.96,4,Python
+Gisela,Dearborn,Jersey,26-05-1995,25035.21,5,SQL
+Stephanie,Cynar,Bhutan,27-12-1987,1783.6,1,SQL
+Dorthy,Gaspard,South Africa,03-02-1984,17293.39,4,Java
+Misha,Atonsah,Finland,03-06-1989,9842.84,4,Java
+Marnia,Corabella,Nicaragua,29-08-1983,24019.22,1,C#
+Cassondra,Concha,Angola,30-11-1972,2509.92,4,PHP
+Adore,Niccolo,Tokelau,16-08-1986,28391.89,2,PHP
+Chloris,Leler,Syrian Arab Republic,23-10-1991,19706.21,3,C#
+Helsa,Stelle,Cayman Islands,07-02-1997,10961.67,3,Perl
+Roseline,Koehler,Bosnia and Herzegovina,31-12-1981,11355.26,2,Java
+Angela,Dyche,Svalbard and Jan Mayen,12-03-1973,2878.42,2,С++
+Abbie,Noman,Tuvalu,21-10-1989,20603.64,2,C#
+Gratia,Fink,Myanmar,17-12-1985,1937.12,5,SQL
+Michaelina,Minetta,Equatorial Guinea,06-02-1989,28619.12,3,C#
+Allis,Tremayne,Guernsey,11-05-1970,12829.94,4,SQL
+Paule,Remmer,South Georgia and the South Sandwich Islands,17-10-1970,10429.11,2,PHP
+Ernesta,Iphlgenia,Martinique,02-09-1974,11642.74,2,Perl
+Gale,Artie,Swaziland,12-10-1972,5524.28,1,Python
+Linzy,Obed,Benin,22-10-1981,3572.94,4,Perl
+Laure,Girardo,Lithuania,10-05-1991,16976.55,1,С++
+Valli,Weinreb,Niger,30-03-1979,12981.97,3,Java
+Laure,Shields,Australia,07-06-1974,18278.52,3,SQL
+Elvira,Bari,Ireland,26-02-1976,25354.7,2,SQL
+Christal,Lenny,Netherlands Antilles,02-10-1997,26609.39,4,С++
+Tera,Vanni,Belgium,02-03-1985,7141.79,2,Python
+Elsie,Swanhildas,Comoros,03-12-1972,29343.11,2,Python
+Annabela,Jillane,Ecuador,13-12-1998,29062.39,2,Basic
+Adriana,Ochs,Singapore,16-02-1972,22557.45,1,С++
+Glenda,Bebe,Estonia,29-10-1985,16590.03,1,Perl
+Gisela,Genna,Jordan,16-02-1971,12068.72,4,Java
+Morganica,Heisel,Morocco,12-01-1997,12434.17,4,SQL
+Ezmeralda,Avi,Bulgaria,09-09-1996,29986.39,5,Assembler
+Maurene,Croix,Ethiopia,06-07-1989,1758.32,3,C#
+Mureil,Ethban,Samoa,19-09-1978,27728.07,4,C#
+Harmonia,Ferrell,Holy See (Vatican City State),02-11-1981,17016.1,1,PHP
+Laurene,Euridice,Japan,29-09-1971,9043.13,3,Perl
+Isa,Annabella,Egypt,07-11-1986,21552.28,5,Java
+Sibella,Klemperer,Kiribati,30-06-1975,21656.07,3,Java
+Elie,Joseph,"Congo, The Democratic Republic of the",11-07-1984,12453.86,3,C#
+Leeanne,Colleen,"Tanzania, United Republic of",07-01-1993,1248.96,1,Perl
+Phedra,Blake,El Salvador,17-07-1978,4738.97,3,Assembler
+Arlena,Cohdwell,Azerbaijan,11-02-1988,10691.11,5,C#
+Rozele,Winnick,Mauritius,18-07-1976,2024.22,1,PHP
+Viki,Evangelia,Tunisia,19-12-1990,29954.05,2,SQL
+Ermengarde,Brandice,Australia,20-10-1998,25198.25,5,С++
+Taffy,Weaks,Guinea-Bissau,14-07-1986,7244.41,5,PHP
+Genovera,Secrest,Netherlands,24-08-1986,13810,1,Assembler
+Livvyy,Graig,Uzbekistan,25-11-1976,25185.92,5,Python
+Fanchon,Bethany,Marshall Islands,08-05-1990,26803.73,2,C#
+Willetta,Maroney,"Palestinian Territory, Occupied",21-08-1981,20961.88,2,Java
+Alejandra,Hull,Tonga,30-12-1986,18235.9,4,PHP
+Dorene,Mendez,Ethiopia,25-04-1981,24856.53,3,Basic
+Fanchon,Prober,Mali,19-04-1993,21883.88,2,С++
+Lusa,Wolfgram,Liechtenstein,09-07-1974,20565.78,2,C#
+Adelle,Brandice,Nigeria,25-09-1987,8673.66,5,Assembler
+Tiffie,Libna,Monaco,01-07-1983,6341.79,2,C#
+Leeanne,Tacye,Maldives,02-12-1983,12382.56,1,Assembler
+Romona,Cath,Wallis and Futuna,12-12-1990,28438.11,5,Assembler
+Sherrie,Tybald,United States,15-01-1985,20659.26,5,Basic
+Kaia,Rogerio,Paraguay,16-01-1996,5530.36,2,Assembler
+Codie,Japeth,Tajikistan,20-04-1987,5772.39,1,Perl
+Mara,Blake,Dominican Republic,31-10-1988,6666.85,2,C#
+Lelah,Alarise,Mayotte,04-07-1982,14981.01,2,Python
+Carilyn,Ajay,Uruguay,01-10-1999,3369.7,4,C#
+Atlanta,Earlie,Guatemala,15-08-1974,29035.91,3,С++
+Desirae,Mott,Tunisia,11-11-1972,4238.73,5,С++
+Clary,Eben,Iraq,21-10-1996,19485.44,1,С++
+Petronia,Burkle,Sierra Leone,03-05-1993,18587.45,1,C#
+Charmaine,Ashok,Niger,07-10-1977,7608.75,3,Assembler
+Kore,Morehouse,Grenada,10-02-1974,25050.65,2,C#
+Trudie,Bivins,Netherlands Antilles,17-11-1983,13846.55,4,PHP
+Peri,Claudine,Madagascar,12-04-1973,20859.13,3,C#
+Agnese,Amasa,Mayotte,29-01-1995,10766.41,1,Basic
+Madelle,Neva,Namibia,17-09-1977,3698.64,1,Assembler
+Marinna,Ricki,Hungary,23-03-1988,27289.61,5,Assembler
+Elmira,Olin,Hong Kong,31-05-1987,4443.49,1,PHP
+Brooks,Marden,Central African Republic,07-07-1976,13834.22,2,Perl
+Hollie,Alabaster,Cayman Islands,10-06-1985,29996.93,2,PHP
+Ricky,Euridice,"Korea, Democratic People""S Republic of",28-02-1976,25354.88,2,Perl
+Rosaline,Torray,Bahrain,22-09-1981,9578.68,3,SQL
+Asia,Parette,"Korea, Republic of",07-02-1994,6147.46,2,PHP
+Brianna,Israeli,Heard Island and Mcdonald Islands,19-10-1972,25212.67,5,Perl
+Brooks,Chandler,Brazil,04-05-1980,21022.74,5,Python
+Susan,Tound,Mozambique,20-12-1999,12260.51,3,Perl
+Sallie,Hoenack,Falkland Islands (Malvinas),04-03-1973,23646.76,2,Assembler
+Millie,Schwejda,Luxembourg,22-07-1986,10989.92,1,Basic
+Minda,Ezar,Central African Republic,27-09-1972,19948.36,2,SQL
+Devina,Freddi,Niger,24-04-1979,27720.01,1,Assembler
+Janeczka,Luhe,Senegal,11-03-1989,25628.97,1,Python
+Mady,Avi,Japan,02-04-1995,6465.5,5,SQL
+Anthia,Hieronymus,"Lao People""S Democratic Republic",20-02-1981,13010.02,4,C#
+Rhea,Chesna,AndorrA,31-01-1996,12692.38,5,Perl
+Alie,Ranjiv,Armenia,17-11-1982,13074.68,1,Python
+Dorthy,Magnolia,Gibraltar,28-07-1971,11069.55,1,Basic
+Nollie,Mendez,Kuwait,22-12-1998,29381.56,2,C#
+Carree,Center,Pitcairn,27-03-1981,12259.68,4,Perl
+Andeee,Lasley,Sweden,07-07-1990,6629.6,1,SQL
+Vere,Judye,French Southern Territories,14-12-1988,4959.21,3,SQL
+Gabi,Nance,Macao,02-03-1994,2180.06,3,Java
+Hayley,Arley,Brazil,15-03-1970,3431.69,1,PHP
+Lindie,Milde,Yemen,08-01-1999,27786.15,3,Python
+Deloria,Ezar,Saint Pierre and Miquelon,11-06-1988,21754.94,5,Python
+Danika,Radu,Montserrat,09-01-1985,18096.89,5,C#
+Betta,Colleen,Vanuatu,12-03-1975,14071.38,5,Perl
+Ofilia,Rossner,Sweden,23-04-1977,1743.39,5,Java
+Aurelie,Federica,El Salvador,05-09-1997,1822.37,5,Python
+Katuscha,Monaco,Nigeria,30-08-1975,23897.61,4,C#
+Cyb,Charmine,Sao Tome and Principe,15-08-1997,16742.84,4,C#
+Berta,Primalia,Peru,28-07-1999,22215.1,5,Perl
+Berta,Chandler,Guadeloupe,14-01-1988,11352.03,2,С++
+Margette,Myrilla,Djibouti,29-08-1985,16644.72,1,С++
+Rosene,Breed,New Zealand,06-05-1973,13550.9,4,Assembler
+Marika,Colbert,Sao Tome and Principe,21-11-1992,21335.07,3,PHP
+Jenilee,Cimbura,New Caledonia,30-04-1981,18696.76,2,PHP
+Lita,Ruvolo,Tuvalu,28-11-1973,19679.13,2,SQL
+Judy,Robertson,Gibraltar,31-03-1988,27338.38,4,Perl
+Vinita,Bouchard,Antarctica,15-11-1992,11347.72,3,PHP
+Elyssa,Cleo,Togo,26-05-1974,22473.76,3,SQL
+Dulcinea,Artie,New Zealand,30-07-1973,24512.73,5,SQL
+Shandie,Charity,Reunion,27-02-1974,27184.47,1,Perl
+Deloria,Boehike,Cocos (Keeling) Islands,16-08-1972,29274.68,2,С++
+Sophia,Paton,Uzbekistan,14-06-1974,9822.33,3,C#
+Stephanie,Cutlerr,Central African Republic,15-04-1976,28910.29,4,PHP
+Mariele,Vilma,Bahamas,01-07-1999,10759.22,2,C#
+Trixi,Carlson,Netherlands Antilles,11-06-1973,10882.21,2,С++
+Cherilyn,Ursulette,Reunion,27-12-1991,21974.79,2,Basic
+Zia,Beebe,Jersey,04-07-1972,2388.62,1,С++
+Lindie,Anis,Albania,07-08-1995,18088.1,4,PHP
+Leona,Glovsky,Guinea,19-01-1984,27208.61,3,Java
+Veda,Romelda,Swaziland,30-08-1996,6321.35,3,Basic
+Catharine,Edison,Burkina Faso,08-06-1990,1600.42,4,Perl
+Justinn,Dearborn,Belgium,20-08-1978,8862.69,1,С++
+Roseline,Sherrie,El Salvador,29-01-1977,19714.81,5,PHP
+Sindee,Bari,Maldives,23-06-1986,18094.76,4,Basic
+Anestassia,Pelagias,Martinique,25-07-1980,26661.92,4,SQL
+Lisette,Ludewig,Suriname,21-05-1984,23869.41,1,Java
+Kimberley,Socha,Libyan Arab Jamahiriya,06-02-1995,3938.8,2,С++
+Emilia,Giff,Egypt,10-09-1989,26439.11,5,PHP
+Millie,Stelle,Cyprus,13-06-1997,8434.78,1,Perl
+Stevana,Chrystel,Madagascar,17-06-1995,1182,5,Java
+Johna,Taima,Åland Islands,08-11-1979,12594.32,5,С++
+Glynnis,Gordon,Belarus,25-11-1970,27270.34,1,Perl
+Adelle,Burnside,British Indian Ocean Territory,25-05-1988,3046.52,3,Assembler
+Mady,O'Neill,Mexico,08-12-1976,23580.28,2,Assembler
+Britte,Karylin,Saint Lucia,07-05-1977,5025.21,3,С++
+Atlanta,Carlson,Tokelau,29-08-1985,5740.7,5,PHP
+Beth,Daegal,Kyrgyzstan,10-08-1981,14352.97,1,PHP
+Louella,Peg,Madagascar,16-02-1996,16948.2,3,PHP
+Helsa,Jenness,British Indian Ocean Territory,17-03-1993,4735.49,1,Assembler
+Lila,Beniamino,Togo,21-12-1990,7165.38,5,Java
+Lesly,Payson,United Arab Emirates,06-05-1987,5521.9,4,PHP
+Livvyy,Rustice,Marshall Islands,05-01-1997,7236.25,4,С++
+Morganica,Stilwell,Angola,08-05-1975,15644.73,5,Python
+Vere,Emerson,Austria,29-05-1990,26160.45,3,Basic
+Annice,Bow,Guadeloupe,11-05-1980,27025.71,3,Python
+Gloria,Leary,Gambia,05-02-1989,8743.07,3,PHP
+Celene,Monk,Bosnia and Herzegovina,27-02-1983,3189.23,2,C#
+Dari,Harned,Bouvet Island,05-04-1979,16054.94,1,Basic
+Carol-Jean,Elvyn,Kazakhstan,05-02-1971,17843.63,3,SQL
+Libbie,Chem,Heard Island and Mcdonald Islands,30-09-1985,23070.58,2,Perl
+Georgetta,Pillsbury,Tokelau,21-11-1977,6604,4,C#
+Gaylene,Jorgan,Oman,15-02-1983,6578.37,2,SQL
+Allis,Wolfgram,Oman,19-12-1996,8670.77,5,Python
+Damaris,Primalia,Kiribati,16-11-1992,22022.69,5,Perl
+Verla,Kathie,Saint Vincent and the Grenadines,03-10-1995,16618.26,3,C#
+Melanie,Ailyn,RWANDA,14-06-1995,8577.34,1,С++
+Bee,Hanleigh,India,25-07-1999,5402.65,3,Java
+Merci,Beniamino,Aruba,07-04-1994,16217.41,1,Python
+Steffane,Vittoria,Cambodia,02-02-1984,2154.09,4,Perl
+Xylina,Brieta,Morocco,10-04-1988,28694.58,1,PHP
+Jaclyn,Brackely,Pitcairn,11-04-1978,6397.92,1,Java
+Fred,Corilla,Chile,23-12-1974,7990.97,3,Perl
+Sandie,Thomasina,Saint Pierre and Miquelon,02-09-1984,11798.53,3,C#
+Mignon,Westphal,Bahamas,06-06-1993,25768.23,5,SQL
+Nicoli,Kravits,Mongolia,04-05-1977,20922.27,1,Basic
+Tabbatha,Emanuel,Myanmar,09-09-1972,4811.17,4,Perl
+Aeriela,Gert,Slovenia,22-02-1987,20320.35,5,Java
+Melodie,Percy,"Micronesia, Federated States of",15-01-1973,16376.51,1,Java
+Odessa,Terrence,Australia,19-01-1971,2879.95,4,Java
+Kirbee,Eachern,Cuba,22-04-1994,12104.95,1,PHP
+Gerianna,Sasnett,Sri Lanka,14-05-1975,21933.6,1,Perl
+Frieda,Daegal,Ukraine,26-05-1989,13270.99,1,Assembler
+Aaren,Bari,Cameroon,07-02-1998,27043.57,3,Python
+Darci,Gilmour,Turkmenistan,25-05-1978,2396.25,4,Java
+Hayley,Ogren,Viet Nam,30-04-1995,14955.66,1,С++
+Natka,Hourigan,Maldives,08-03-1970,20885.03,3,Basic
+Florencia,Lowry,Papua New Guinea,07-10-1979,15911.61,2,Basic
+Cyndie,Aurelio,Estonia,07-05-1996,26053.83,1,С++
+Desirae,Burkle,Kazakhstan,11-06-1992,18816.9,1,Assembler
+Lolita,Voletta,Australia,26-11-1978,16827.34,1,SQL
+Krystle,Harday,Aruba,22-05-1990,13979.44,4,Perl
+Ulrike,Yorick,Togo,21-06-1972,14518.78,5,C#
+Penelopa,Ariella,Mexico,12-04-1993,3327.88,3,C#
+Suzette,Hewitt,Burundi,18-10-1993,7628.42,4,Python
+Deedee,Rillings,Canada,16-12-1990,14355.4,3,С++
+Katuscha,Moseley,Djibouti,22-11-1999,27563.61,3,SQL
+Consuela,Cookie,Czech Republic,26-12-1981,7684.87,2,Perl
+Marinna,Leffen,Uganda,08-02-1995,3645.89,2,С++
+Layla,Byrne,Northern Mariana Islands,03-05-1973,15800.38,2,SQL
+Ada,Parette,Uganda,12-03-1988,1970.89,2,С++
+Bee,Horan,United States Minor Outlying Islands,19-10-1980,20711.67,3,Assembler
+Letizia,Stacy,Poland,25-05-1998,7419.59,1,PHP
+Winifred,Latini,Denmark,21-09-1990,11305.16,4,Python
+Larine,Douglass,Palau,02-11-1984,25554.98,2,C#
+Shauna,Verger,Cambodia,24-07-1977,7590.65,3,Python
+Sindee,Cleavland,Latvia,01-11-1980,13598.43,1,Perl
+Daune,Ilka,Bangladesh,18-06-1996,29723.78,4,Python
+Frances,Socha,Nigeria,21-12-1974,13393.65,5,С++
+Brianna,Diann,Zimbabwe,05-01-1982,5550.16,1,SQL
+Correy,Maples,Macao,23-02-1981,8302.79,1,Perl
+Paola,Wattenberg,Saint Pierre and Miquelon,18-07-1999,19446.94,3,Perl
+Antonietta,Cordi,Egypt,13-08-1972,28958.29,1,Java
+Carmencita,Llovera,Falkland Islands (Malvinas),12-10-1998,9404.21,4,SQL
+Beth,Tice,Tajikistan,31-12-1975,12243.17,2,Assembler
+Anallese,Monk,Poland,07-02-1977,7757.81,5,С++
+Rebeca,Delacourt,Comoros,14-10-1978,6139.71,2,Basic
+Ashlee,Cosenza,Cameroon,02-03-1994,27706.02,5,SQL
+Joleen,Sinegold,Georgia,13-12-1990,3011.61,2,Python
+Glenda,Celestine,United Kingdom,13-10-1980,6577.5,2,Java
+Deirdre,Hanleigh,Iraq,07-04-1995,4484.7,2,Basic
+Ulrike,Elsinore,Bahrain,17-04-1991,19603.5,5,Java
+Vinita,Dituri,Denmark,16-12-1998,11888.28,5,С++
+Jenilee,Hull,"Micronesia, Federated States of",16-02-1997,7941.69,2,C#
+Tami,Ax,Cocos (Keeling) Islands,19-03-1993,29791.26,1,Java
+Mellicent,Eliathas,Angola,05-01-1996,26675.46,5,SQL
+Penelopa,Naor,Guam,06-07-1977,11660.91,4,Python
+Xylina,Turne,Bouvet Island,13-05-1996,21324.43,1,Assembler
+Hermione,Ball,Niue,11-12-1984,4462.8,1,С++
+Chrystel,Philipp,Thailand,15-10-1992,15710.93,5,Basic
+Deedee,Seessel,South Georgia and the South Sandwich Islands,16-11-1981,10190.81,2,SQL
+Agathe,Noman,Venezuela,08-04-1993,14649.52,1,SQL
+Allis,Amadas,Latvia,03-12-1982,4124.63,2,SQL
+Collen,Hillel,Viet Nam,17-02-1990,18794.83,1,Java
+Halette,Salchunas,Cameroon,10-07-1989,14350.72,5,SQL
+Jessamyn,Nahum,Azerbaijan,16-05-1990,20597.15,2,С++
+Marcelline,Natica,Algeria,13-09-1981,14335.9,3,С++
+Dede,Dudley,Iraq,25-09-1982,29369.38,2,PHP
+Sue,Arley,Zimbabwe,18-02-1973,22593.59,1,SQL
+Britni,Koziara,Sri Lanka,01-08-1973,26481.11,1,Perl
+Glynnis,Alice,Malaysia,22-08-1974,8984.73,5,C#
+Kristan,Minetta,Zambia,18-09-1975,20439.62,2,Assembler
+Pamella,Rosalba,Australia,26-02-1989,20297.14,1,Assembler
+Elka,Remmer,Nepal,03-04-1990,6464.31,1,PHP
+Maurene,Vins,Bolivia,09-01-1974,7548.83,3,Assembler
+Arlina,Lesley,Netherlands,07-09-1971,10311.86,2,Java
+Sonni,Magnolia,Turkey,22-04-1996,14179.71,2,C#
+Jorry,Ivens,Israel,16-10-1996,18483.05,3,Perl
+Ardys,Birdella,Bulgaria,14-09-1986,3879.59,2,C#
+Louella,Bates,Guernsey,07-11-1997,22592.49,1,Java
+Belinda,Millda,Nicaragua,28-03-1979,3443.29,3,С++
+Lynde,Edee,Canada,07-03-1989,10257.57,5,SQL
+Andeee,Vittoria,Cook Islands,25-01-1994,14459.2,3,C#
+Kirbee,Chobot,Norway,21-10-1977,3474.24,4,Assembler
+Gretal,Emmy,Reunion,13-04-1991,22506.48,1,Perl
+Aaren,Stuart,Costa Rica,18-08-1984,15431.26,5,С++
+Yetty,Ardra,Isle of Man,26-07-1999,1893.82,4,Perl
+Kellen,Skell,Cape Verde,17-01-1991,2514.88,5,Java
+Gisela,Tomasina,Nepal,15-05-1971,22310.74,4,Assembler
+Carree,Shields,Bermuda,14-08-1981,28662.15,1,Assembler
+Magdalena,Modie,Tuvalu,22-10-1994,23349.95,1,Basic
+Gertrud,Kenney,Gibraltar,27-03-1984,23415.09,3,Basic
+Heida,Mauer,"Cote D""Ivoire",17-04-1998,10498.01,4,С++
+Larine,Hazlett,Solomon Islands,14-02-1997,15964.38,2,PHP
+Eugine,Gombach,China,12-03-1993,8140.31,4,Java
+Rani,Nester,Poland,09-02-1973,14859.24,1,Assembler
+Kirstin,Carri,RWANDA,25-07-1994,1427.02,2,Python
+Ashlee,Natica,Azerbaijan,31-07-1981,15297.27,3,Perl
+Karly,Abram,Serbia and Montenegro,08-01-1978,8853.72,1,C#
+Clarice,Avi,Gabon,27-08-1973,15523.91,4,С++
+Lilith,Schlosser,Japan,21-06-1996,13066.73,3,С++
+Sybille,Plato,Russian Federation,05-11-1979,25188.67,5,Assembler
+Jinny,Israeli,Bahrain,01-09-1978,1353.97,4,SQL
+Cathie,Lia,Angola,17-02-1975,26419.42,2,Basic
+Nyssa,Agle,Bahamas,08-04-1992,18893.05,2,Basic
+Alyda,Amasa,"Tanzania, United Republic of",22-02-1999,28915.8,4,PHP
+Emmey,Papageno,Norway,30-03-1987,4788.41,4,SQL
+Adelle,Joeann,Armenia,09-11-1978,5394.66,4,Python
+Marita,Ackerley,Croatia,10-06-1995,22294.56,3,Basic
+Tiffie,Bettine,Kyrgyzstan,26-11-1978,21218.45,4,Assembler
+Peri,Soneson,Sweden,14-01-1998,18998.89,3,Python
+Bernardine,Gilmour,Switzerland,08-07-1985,4365.8,1,Perl
+Ketti,Elbertina,French Polynesia,07-07-1981,23096.55,3,C#
+Rebeca,Anestassia,Indonesia,08-12-1999,25380.24,5,Assembler
+Joy,Greyson,Cuba,12-05-1980,12288.36,1,С++
+Myriam,Velick,Mexico,16-12-1972,19451.75,5,SQL
+Layla,Bendick,Burundi,02-04-1993,20180.8,4,SQL
+Clementine,Orpah,Kuwait,19-05-1993,4004.53,2,Java
+Christian,Seagraves,Armenia,04-02-1984,13189.58,1,Java
+Kittie,Obed,"Moldova, Republic of",07-09-1990,7657.61,1,Java
+Pearline,Gillan,Saint Helena,27-06-1983,2983.48,4,C#
+Cristabel,Barbey,Singapore,17-02-1996,2705.94,1,Assembler
+Elmira,Bouchard,American Samoa,30-05-1981,6722.25,5,Basic
+Addia,Viddah,Suriname,22-04-1993,29589.9,4,С++
+Nonnah,Delp,Armenia,16-01-1982,2759.06,1,PHP
+Raquela,Harl,New Zealand,19-08-1973,13847.29,3,C#
+Dulcinea,Brady,Czech Republic,23-10-1975,3302.1,5,Python
+Angelique,Berl,South Africa,21-04-1996,13005.32,2,Assembler
+Mellicent,Maiah,Sweden,19-04-1997,24457.94,1,C#
+Belva,Vins,Bhutan,14-03-1994,1330.9,5,Assembler
+Dennie,Burnside,Nauru,01-01-1978,13238.98,1,Basic
+Lisette,Jenness,"Congo, The Democratic Republic of the",23-09-1987,4961.88,4,PHP
+Darlleen,Calhoun,Algeria,22-11-1971,13917.63,1,Perl
+Katleen,Zeeba,Wallis and Futuna,18-09-1995,28781.98,4,Assembler
+Antonietta,Hillel,Fiji,22-04-1975,27191.7,5,С++
+Konstance,Fillbert,Thailand,05-12-1972,3764.63,2,Assembler
+Alyda,Connelly,India,03-03-1994,27425.33,5,Basic
+Mathilda,Ietta,Cape Verde,04-05-1986,18049.33,5,Java
+Meg,Thomasina,Belarus,03-10-1983,28090.73,5,Assembler
+Randa,Ries,El Salvador,29-06-1982,19459.83,4,PHP
+Kara-Lynn,Rebecka,Monaco,27-04-1974,8325,1,Perl
+Dorthy,Wareing,Marshall Islands,31-01-1996,18909.38,2,Assembler
+Anestassia,Plato,French Guiana,12-04-1986,6275.06,2,SQL
+Marline,Jefferey,Northern Mariana Islands,02-02-1992,24385.99,5,Python
+Renae,Jacinda,Burundi,30-09-1992,8534.17,2,Perl
+Genovera,Chapland,Guadeloupe,27-09-1977,24982.92,3,SQL
+Amii,Gemini,United Kingdom,28-05-1995,13496.5,5,SQL
+Adore,Christine,Niue,02-01-1978,2452.38,1,Basic
+Alyssa,Burnside,Kyrgyzstan,09-08-1999,15113.68,1,C#
+Alex,McClimans,Serbia and Montenegro,16-04-1993,26276.08,2,Basic
+Vonny,Markman,Angola,23-06-1997,17687.37,4,SQL
+Kamilah,Alva,"Palestinian Territory, Occupied",19-05-1983,19396.15,5,Python
+Nerta,Leifeste,San Marino,28-11-1971,13522.88,1,С++
+Florencia,Jehu,Namibia,06-09-1977,29700.29,4,Assembler
+Kimberley,Rustice,Suriname,11-11-1990,1019.4,1,С++
+Randa,Chobot,Faroe Islands,30-11-1975,1751.81,4,SQL
+Chere,Ball,Algeria,18-08-1988,2351.7,1,Python
+Fanny,Stacy,Wallis and Futuna,07-12-1973,29919.55,4,С++
+Allis,Dyche,Guinea-Bissau,02-09-1989,7009.79,4,Java
+Joeann,Hilbert,Oman,23-12-1970,23984.38,3,С++
+Sallie,Lasley,"Macedonia, The Former Yugoslav Republic of",25-10-1975,27320.5,1,PHP
+Mahalia,Breed,Qatar,08-04-1985,21099.84,5,Assembler
+Merci,Ashok,United Arab Emirates,11-12-1978,28362.2,3,SQL
+Joleen,Colp,Switzerland,12-02-1978,3454.21,3,PHP
+Karlee,Allina,Thailand,14-07-1990,1772.26,1,SQL
+Chastity,Daveta,French Southern Territories,20-12-1986,1990.35,1,Java
+Ottilie,Stoller,Tajikistan,13-04-1998,23264.82,3,PHP
+Karolina,Aurelio,Uzbekistan,01-07-1970,12048.27,1,C#
+Fredericka,Weinreb,Wallis and Futuna,16-11-1990,10906.81,2,Java
+Misha,Kelula,Venezuela,25-01-1980,1212.56,5,C#
+Danny,Margarete,Solomon Islands,14-01-1973,1345.5,3,Python
+Margalo,Tippets,Kazakhstan,11-03-1997,4084.3,2,Java
+Kaja,Zenas,Panama,13-07-1983,9970.23,2,C#
+Ivett,Zrike,Mayotte,06-11-1995,12434.36,4,Basic
+Hannis,Bibi,Guyana,02-11-1982,27938.36,5,Python
+Theodora,Skurnik,Reunion,28-12-1977,25402.47,2,C#
+Karina,Primalia,"Cote D""Ivoire",30-01-1990,26783.47,2,SQL
+Karlee,Cadmar,Thailand,09-08-1977,21650.39,5,Basic
+Brana,Pattin,Malta,05-10-1972,14021.52,4,C#
+Nannie,Hourigan,RWANDA,02-02-1972,9697.93,2,С++
+Blinni,Iphlgenia,Greenland,23-09-1999,22804.69,4,Python
+Jaclyn,Santoro,Tuvalu,24-09-1992,23089.13,1,PHP
+Dyann,Kolnick,Sierra Leone,23-10-1985,24042.65,1,C#
+Josephine,Romelda,Estonia,05-02-1972,6556.82,5,Python
+Tilly,Raychel,Estonia,29-09-1994,15261.46,2,Assembler
+Minne,Elvyn,Burkina Faso,21-11-1976,26286.98,5,С++
+Genovera,Stuart,Cyprus,26-05-1974,15059.04,4,SQL
+Caryl,Liebermann,Tonga,07-01-1980,8880.28,4,Assembler
+Mariann,Lane,Gambia,19-09-1998,22058.68,3,Java
+Susan,Lorenz,Hungary,05-07-1990,22288.79,3,Assembler
+Jessamyn,Kelula,Guinea-Bissau,06-10-1985,14384.66,4,С++
+Lauryn,Erminia,Panama,19-05-1994,8864.84,5,Java
+Quintina,Ludewig,El Salvador,29-04-1978,19035.52,4,Perl
+Dulce,Winnick,Nepal,09-11-1992,14792.04,4,С++
+Roxane,Bergman,Denmark,24-06-1981,20102.17,4,C#
+Max,Hewitt,Albania,04-07-1992,14888.01,1,С++
+Gratia,Marijo,Guernsey,03-05-1985,11685.85,5,C#
+Betta,Frendel,Bangladesh,09-02-1982,29221.31,1,Assembler
+Ginnie,Crudden,Guam,05-05-1973,15104.19,3,Python
+Shannah,Soneson,Argentina,21-09-1970,26006.49,2,Perl
+Jere,Crudden,Jordan,07-11-1977,10091.76,3,Python
+Hettie,Georas,"Lao People""S Democratic Republic",27-12-1996,5352.4,5,С++
+Yetty,Suzetta,Maldives,12-09-1991,24991.54,2,C#
+Dode,Aprile,Paraguay,06-02-1995,25450.37,5,Python
+Bee,Behre,Japan,01-08-1981,19068.12,4,C#
+Bobbi,Zrike,Mozambique,04-12-1991,14364.99,3,С++
+Marinna,Ethban,Malta,03-07-1989,15389.15,3,C#
+Vere,Rooney,Guernsey,15-05-1977,25586.59,2,PHP
+Chrystel,Laurianne,El Salvador,29-12-1980,2119.8,4,C#
+Raquela,Septima,Jordan,20-07-1979,3280.78,4,C#
+Luci,Kermit,"Micronesia, Federated States of",07-09-1987,20750.09,2,С++
+Konstance,Brady,Slovenia,14-11-1992,15173.05,5,Java
+Ginnie,Terrence,Nicaragua,15-10-1986,17283.28,4,Basic
+Rochette,Narton,Monaco,15-11-1986,28793.2,4,C#
+Elvira,Audly,India,14-02-1983,9722.18,2,С++
+Vere,Allina,Gibraltar,21-12-1992,24293.7,1,Basic
+Demetris,Croix,Venezuela,20-10-1999,3479.35,2,SQL
+Kara-Lynn,Wallis,Aruba,07-10-1998,22622.91,4,С++
+Eugine,Ogren,Maldives,21-07-1982,14760.07,3,Assembler
+Codie,Ricarda,Tokelau,26-03-1982,9963.22,4,С++
+Vinita,Rona,Saint Helena,13-03-1979,25001.32,1,Basic
+Linet,Hedve,Germany,22-05-1998,23188.54,3,Perl
+Rori,Delp,Slovenia,18-10-1980,25066.17,1,С++
+Cam,Odysseus,Saint Helena,23-09-1995,26105.79,1,C#
+Doralynne,Cleo,Kyrgyzstan,12-08-1985,7586.81,2,Basic
+Anallese,Meli,Saint Vincent and the Grenadines,29-08-1993,2947.98,2,C#
+Feliza,McCutcheon,Kenya,13-02-1989,24364.57,2,PHP
+Gavrielle,Vittoria,Malawi,07-06-1979,3477.51,1,Perl
+Tani,Hutchison,Hong Kong,03-02-1988,24983.88,3,C#
+Mara,Jobi,South Georgia and the South Sandwich Islands,24-10-1988,24518.91,5,Java
+Kathi,Donoghue,Solomon Islands,15-01-1981,25386.26,4,Java
+Kimberley,Lea,"Tanzania, United Republic of",16-10-1977,11478.62,2,С++
+Alisha,Bari,Tunisia,09-06-1987,26585.29,5,Java
+Codie,Raseda,Israel,05-05-1984,26650.96,4,Perl
+Ginnie,Urania,Albania,11-09-1981,22776.07,1,С++
+Nollie,Rooney,"Cote D""Ivoire",17-05-1994,10265.63,1,Perl
+Lolita,Rosemary,"Virgin Islands, British",04-08-1971,29384.1,5,Basic
+Brynna,Erich,Western Sahara,14-01-1970,14490.18,3,С++
+Winny,Cloris,Nicaragua,18-09-1971,23135.37,5,C#
+Isa,Dominy,Cuba,31-07-1989,26461.41,2,PHP
+Verla,Orelee,United Kingdom,27-12-1999,27290.47,4,Java
+Glynnis,Camden,Morocco,17-09-1972,20609.36,1,Perl
+Raf,Eldrid,Singapore,16-12-1992,14389.6,2,С++
+Kaia,Georgy,Indonesia,31-07-1985,7903.83,3,C#
+Brandise,Bultman,"Cote D""Ivoire",30-06-1990,17251.41,4,SQL
+Lynnea,Dimitris,Anguilla,06-07-1989,8695.87,5,SQL
+Kristina,Jagir,Angola,16-11-1971,3331.47,5,Python
+Madelle,Briney,Serbia and Montenegro,15-11-1986,6949.38,2,C#
+Blake,Wareing,Togo,29-10-1977,6844.96,1,Perl
+Dorthy,Macey,Viet Nam,26-07-1998,16543.19,3,Python
+Candy,Giule,Central African Republic,01-05-1989,1426.26,1,C#
+Rebeca,Monaco,"Virgin Islands, U.S.",02-04-1986,22030.02,1,C#
+Cam,Grosz,AndorrA,13-08-1990,22159.54,2,С++
+Chandra,Marsden,"Palestinian Territory, Occupied",28-03-1996,16008.94,4,Perl
+Minne,Cadmar,Vanuatu,21-03-1981,5622.81,2,Assembler
+Xylina,Hepsibah,Costa Rica,01-08-1993,7385.16,1,SQL
+Loree,Phaidra,Maldives,15-05-1975,22201.89,1,SQL
+Orsola,Vittoria,Bahamas,12-02-1982,26972.69,3,C#
+Cathyleen,Suzetta,Georgia,05-07-1972,11306.16,5,Basic
+Blake,Hazlett,"Cote D""Ivoire",11-05-1994,26445.44,3,Python
+Rosanne,Aloise,Trinidad and Tobago,16-06-1971,3440.94,1,С++
+Rani,Maribeth,AndorrA,11-08-1998,24165.71,2,Perl
+Chandra,Guildroy,Oman,01-02-1988,1897.09,1,Java
+Dede,Johnsson,Finland,30-06-1994,1939.97,3,Perl
+Sidoney,Hirsch,Zimbabwe,24-05-1985,26318.43,2,SQL
+Marylou,Alfons,French Polynesia,17-04-1973,28144.8,1,SQL
+Madeleine,Moseley,Cape Verde,20-11-1975,8610.75,5,C#
+Kelly,Sabella,Albania,16-05-1981,14998.13,4,Java
+Deloria,Mauer,Montserrat,09-03-1987,16811.12,5,Java
+Dale,Simmonds,Bhutan,31-07-1978,10561.9,3,SQL
+Drucie,Nikaniki,Mongolia,14-05-1980,29217.47,3,Perl
+Blinni,Durante,Macao,29-11-1984,21457.97,5,С++
+Candy,Kiyoshi,Panama,01-08-1999,16218.74,2,SQL
+Jere,Penelopa,Libyan Arab Jamahiriya,14-12-1981,29978.41,3,SQL
+Starla,Scammon,Norway,30-05-1997,29709.27,5,PHP
+Rosaline,Natica,Papua New Guinea,03-10-1992,6621.88,4,PHP
+Phylis,Montgomery,Netherlands Antilles,01-01-1979,17033.12,4,Assembler
+Lesly,Neva,Mozambique,16-12-1989,2313.37,4,С++
+Gilda,Turne,Mayotte,05-11-1987,7194.35,5,Java
+Claudina,Emerson,Guam,05-07-1983,18754.62,2,Assembler
+Gabi,Hillel,Guyana,19-04-1971,17137.08,3,PHP
+Mathilda,Florina,Bosnia and Herzegovina,09-11-1984,6650.24,2,Python
+Kalina,Zina,China,13-05-1999,15319.18,2,Basic
+Ketti,Revkah,Kazakhstan,19-08-1984,29856.46,4,SQL
+Hildegaard,Septima,Namibia,19-10-1991,29352.42,5,SQL
+Sue,Holbrook,Cayman Islands,29-11-1970,22183.53,4,C#
+Flory,Gabrielli,Guatemala,10-05-1990,22835.54,4,Perl
+Estell,Papageno,Seychelles,19-06-1988,2647.17,3,Perl
+Gale,Tufts,Monaco,24-03-1987,8674.28,5,Python
+Molli,Pond,Slovakia,16-03-1977,7304.84,4,C#
+Henriette,Ummersen,Nepal,21-02-1976,13773.97,2,C#
+Sandie,Mike,Monaco,03-01-1991,29803.08,5,C#
+Ada,Brunell,Bahrain,05-09-1995,29189.36,2,Perl
+Valli,Weitman,Saudi Arabia,20-07-1991,17549.53,2,Perl
+Melina,Hamil,Zambia,03-07-1981,14774.8,3,PHP
+Alyda,Anderea,Martinique,28-03-1988,21230.74,3,С++
+Johna,Hanleigh,Yemen,06-05-1981,26091.9,3,Python
+Joleen,Karna,New Caledonia,29-11-1981,16277.76,3,Perl
+Codie,Aurelio,United Kingdom,03-08-1984,11419.46,1,Assembler
+Veda,Moseley,Latvia,23-11-1989,10603.06,3,Assembler
+Kirstin,Olin,Gabon,30-12-1999,8239.39,1,C#
+Keelia,Bethany,Kenya,23-11-1975,13311.43,5,C#
+Althea,Thar,Slovakia,02-01-1979,8807.82,4,Perl
+Daryl,Tyson,Suriname,21-05-1991,29819.76,1,PHP
+Vere,Slifka,Jersey,23-05-1972,26544.22,2,SQL
+Alejandra,Neils,South Africa,09-07-1985,4335.96,1,Perl
+Berget,Mott,Ecuador,19-03-1977,26945.84,2,Perl
+Janeczka,Tufts,Morocco,14-12-1973,12918.85,5,Java
+Audrie,Atcliffe,Croatia,25-08-1971,29801.2,3,C#
+Meriel,Jacqui,Cambodia,14-03-1989,4000.26,4,С++
+Arlina,Joli,Solomon Islands,31-10-1994,23624.83,4,PHP
+Maryellen,Bartlett,Madagascar,22-07-1989,6701.12,3,Python
+Aimil,Mott,"Lao People""S Democratic Republic",19-06-1980,8818.61,5,Java
+Leeanne,Willie,Antarctica,01-01-1981,21557.09,4,С++
+Genevra,Myrilla,Sao Tome and Principe,31-07-1978,17084.46,3,С++
+Zsa Zsa,Si,El Salvador,17-01-1978,4366.03,2,C#
+Kathi,Dominy,RWANDA,20-12-1987,23268.66,1,Assembler
+Deirdre,Danby,Saint Helena,27-10-1979,28941.22,2,Python
+Carmencita,Turne,Thailand,25-09-1999,8153.97,2,Java
+Jorry,Desai,Russian Federation,23-05-1996,29153,2,SQL
+Viki,Kinnard,Cambodia,05-05-1975,14832.88,3,Perl
+Angelique,Cavan,Eritrea,04-11-1997,5692.45,2,PHP
+Korrie,Arley,Liechtenstein,30-03-1994,2045.61,4,PHP
+Rosaline,Tarrant,Cocos (Keeling) Islands,07-04-1977,11860.79,1,Assembler
+Debee,Latini,Saint Pierre and Miquelon,13-09-1979,6243.81,4,С++
+Aaren,Loring,French Guiana,05-11-1982,27831.06,1,Java
+Clarice,Valoniah,Faroe Islands,04-09-1970,14306.75,5,С++
+Gwenneth,Fancie,Jersey,07-06-1998,26028.73,3,С++
+Zondra,Alejoa,"Lao People""S Democratic Republic",11-01-1995,8289.51,3,C#
+Romona,Selway,"Palestinian Territory, Occupied",13-03-1986,23929.97,5,Python
+Hyacinthe,Raseda,Venezuela,29-05-1983,23760.42,2,Assembler
+Mary,Gavrila,Solomon Islands,07-11-1998,16814.91,3,SQL
+Chandra,Jess,Guinea-Bissau,30-05-1994,3771.86,1,Python
+Jennica,Linskey,Saint Pierre and Miquelon,13-06-1990,21570.03,5,SQL
+Shaylyn,Gherardo,Uganda,16-09-1983,23089.47,3,C#
+Gerianna,Lay,France,29-06-1975,18658.87,3,SQL
+Dulcinea,Holbrook,Christmas Island,27-02-1994,1586.38,3,PHP
+Lizzie,Pip,Singapore,30-11-1972,21312.66,1,С++
+Patricia,Meter,Seychelles,12-01-1971,27315.43,2,Basic
+Brana,Roxanna,Senegal,30-12-1985,6327.66,2,PHP
+Barbara,Rosalba,Tokelau,24-10-1982,14862.06,2,C#
+Cristine,Brian,Guyana,15-02-1998,10597.07,5,C#
+Cyndie,Arquit,Georgia,08-05-1980,14807.84,1,Basic
+Jere,Rheingold,Saint Helena,22-08-1994,4850.03,3,Basic
+Xylina,Valerio,Romania,27-01-1986,27449.74,3,С++
+Rani,Seligman,Saint Helena,15-05-1986,29430.76,5,PHP
+Shandie,Odell,South Georgia and the South Sandwich Islands,07-09-1970,26239.89,2,Java
+Dede,Rozanna,San Marino,13-11-1991,1012.82,3,C#
+Albertina,Allys,Belarus,03-11-1999,4740.36,1,PHP
+Judy,Kosey,Sierra Leone,08-07-1984,1280.82,2,Python
+Chloris,Connelly,Gabon,07-09-1977,10209.04,3,Assembler
+Elfreda,Aldric,Samoa,01-11-1995,2971.86,3,Python
+Addia,Weaks,Australia,19-08-1980,28546.65,2,PHP
+Stevana,Alrich,Indonesia,25-02-1973,8676.25,3,Perl
+Leona,Emmaline,Bouvet Island,30-08-1980,11281.95,5,SQL
+Lynde,Plato,Portugal,10-08-1972,24287.92,1,Perl
+Mildrid,Faro,Estonia,12-03-1986,13942.64,4,SQL
+Meghann,Rhu,Morocco,14-11-1985,9945.58,3,Java
+Gerianna,Virgin,"Cote D""Ivoire",22-08-1971,20681.58,3,С++
+Jere,Helve,Peru,27-01-1977,28401.78,4,Java
+Selma,Concha,Liberia,09-07-1996,16502.98,3,Python
+Lolita,Eldrid,"Virgin Islands, U.S.",15-07-1978,14933.75,5,Assembler
+Ginnie,Flyn,AndorrA,13-08-1971,17747.73,4,Assembler
+Rhoda,Adore,Isle of Man,26-10-1996,5583.03,2,С++
+Annice,Hermes,Timor-Leste,25-03-1997,22088.46,3,С++
+Fina,Stuart,Latvia,03-03-1971,19797.82,4,Java
+Misha,Buttaro,Guam,13-05-1972,2396.76,2,PHP
+Ulrike,Brandice,Puerto Rico,19-07-1976,17410.53,3,Perl
+Daune,Gusella,Central African Republic,08-05-1981,22457.55,2,C#
+Tressa,Magnolia,Haiti,09-07-1982,14399.57,5,Basic
+Zaria,Craggie,Åland Islands,16-12-1988,18586.59,1,Python
+Amalie,Kathie,AndorrA,24-07-1984,12967.86,2,Python
+Lanae,Ruvolo,Turks and Caicos Islands,21-04-1991,26427.6,2,Python
+Pollyanna,Kalinda,Sierra Leone,04-10-1993,15970.07,4,Python
+Linet,Lytton,Isle of Man,21-07-1973,15926.89,5,Python
+Britte,Gahl,Qatar,12-05-1991,10585.12,4,Assembler
+Cristabel,Barbey,Bermuda,11-05-1974,1232.72,2,C#
+Blinni,Berne,Bolivia,07-08-1972,23672.34,1,С++
+Cathyleen,Maisey,Bolivia,11-03-1970,15940.8,5,Perl
+Millie,Paton,Malaysia,04-01-1978,23866.11,4,Java
+Leona,Virgin,Vanuatu,01-12-1996,5594.4,2,Python
+Chloris,Wenda,Qatar,08-02-1986,4130.88,2,C#
+Charissa,Bendick,Cambodia,18-06-1999,3508.92,1,SQL
+Ayn,Carmena,Central African Republic,19-02-1978,12907.9,1,С++
+Kaia,Linehan,French Southern Territories,29-07-1991,11887.03,5,Perl
+Cathyleen,Ietta,Italy,09-06-1992,5410.53,5,Perl
+Alyda,Linskey,Cuba,19-06-1986,8377.8,4,С++
+Arlina,Greyson,Martinique,24-02-1972,4038.74,2,Java
+Ileana,Truc,Costa Rica,08-10-1981,18472.75,5,Basic
+Dode,Auberbach,"Palestinian Territory, Occupied",25-12-1978,9682.63,4,C#
+Nelle,Amethist,Brunei Darussalam,23-05-1983,5958.38,4,Perl
+Lita,Hanleigh,Puerto Rico,07-07-1982,27683.95,2,Assembler
+Dede,Pernick,Morocco,21-04-1974,3217.46,4,Python
+Danny,Marden,Poland,10-07-1972,20381.54,4,Basic
+Giustina,Eckblad,Liechtenstein,16-02-1981,9523.64,2,Perl
+Donetta,Susannah,"Virgin Islands, U.S.",23-06-1987,16180.73,4,Python
+Kassey,Tound,Chile,05-10-1983,1699.08,4,C#
+Fayre,Ries,Malta,08-06-1977,27249.96,3,С++
+Trudie,Salchunas,United Arab Emirates,08-02-1978,2118.56,3,Python
+Susan,Rugen,Madagascar,03-06-1995,2247.76,4,SQL
+Nataline,Raul,Paraguay,25-08-1981,9807.79,2,С++
+Starla,Ricki,Slovenia,12-11-1982,26019.69,2,Basic
+Ulrike,Israeli,Turks and Caicos Islands,23-10-1992,29930.59,5,Perl
+Karolina,Thilda,Bahamas,04-12-1992,13305.71,1,Python
+Sharlene,Yoko,"Macedonia, The Former Yugoslav Republic of",05-01-1970,29393.7,1,Basic
+Harrietta,Friede,Martinique,20-02-1973,26109.8,4,Basic
+Charmaine,Lorenz,Fiji,28-12-1970,22189.6,3,C#
+Lexine,Lacombe,Mozambique,14-09-1976,11652.59,4,C#
+Angelique,Boycey,Algeria,24-01-1972,8100.32,2,Perl
+Miquela,Devlen,Turkey,28-06-1981,13974.56,4,C#
+Wileen,Erb,Namibia,23-10-1983,11009.55,3,Python
+Alyssa,Kathie,Mongolia,12-05-1985,12706.26,2,Basic
+Ursulina,Hanshaw,Trinidad and Tobago,13-11-1974,6062.17,5,Assembler
+Cordi,Darbie,Jordan,30-04-1976,17900.96,2,Assembler
+Vinita,Jefferey,Barbados,15-11-1980,29419.7,1,Assembler
+Gisela,Lewes,Honduras,28-11-1990,20318.79,2,Assembler
+Madalyn,Aloise,Maldives,20-02-1982,5104.31,2,PHP
+Kristan,Publia,Dominican Republic,30-06-1976,21712.75,4,PHP
+Flory,Skurnik,Benin,21-09-1983,17208.1,3,PHP
+Dolli,Suk,Equatorial Guinea,14-03-1993,27515.63,3,PHP
+Tami,Travax,Kiribati,05-09-1999,12268.49,4,C#
+Suzette,Pettiford,Czech Republic,02-06-1974,2441.71,1,Python
+Juliane,Pattin,Heard Island and Mcdonald Islands,18-12-1986,26682.37,2,C#
+Corly,Alabaster,Slovakia,13-07-1986,4456.04,2,Basic
+Petronia,Baptlsta,"Macedonia, The Former Yugoslav Republic of",14-04-1981,1884.19,2,C#
+Karly,Fillbert,"Palestinian Territory, Occupied",14-08-1988,16460.72,3,PHP
+Sibella,Cristi,Syrian Arab Republic,18-01-1986,14804.32,2,C#
+Ebonee,Alice,Brunei Darussalam,14-05-1983,4505.56,3,Perl
+Maurene,Rurik,Japan,29-07-1997,18722.21,5,Python
+Judy,Lipson,Nicaragua,23-06-1996,16098.96,3,Python
+Fernande,Noman,French Polynesia,05-08-1987,2203.1,4,Python
+Ursulina,Teryn,Slovenia,29-07-1992,13903.45,1,Python
+Sam,Pauly,Suriname,26-09-1992,7626.29,1,Assembler
+Joane,Rozanna,Lesotho,04-06-1989,8594.7,4,PHP
+Leontine,Center,Kiribati,13-08-1985,8989.69,4,Python
+Lilith,Schonfeld,Botswana,26-05-1988,7415.99,4,Perl
+Lizzie,Delp,Belgium,16-11-1999,11318.42,2,SQL
+Emma,Lalitta,Portugal,13-04-1994,3449.13,2,Java
+Melisent,Connelly,Guam,16-02-1973,9051.82,2,Perl
+Donetta,Nore,Cocos (Keeling) Islands,09-12-1971,16994.33,5,Perl
+Jany,Ammann,Algeria,05-11-1970,21371.67,4,Perl
+Glynnis,Haerr,Netherlands Antilles,17-04-1999,5726.66,2,Basic
+Orsola,Cressida,Kuwait,14-02-1981,1574.34,2,SQL
+Dorthy,Kendrick,Sudan,28-09-1993,21820.55,3,Basic
+Rebeca,Holbrook,United States,27-02-1989,24949.63,5,Java
+Edyth,Concha,Burundi,28-11-1987,29020.41,2,SQL
+Fred,Bouchard,Brunei Darussalam,23-08-1972,25881.85,5,С++
+Josephine,Fennessy,Belarus,20-10-1983,17423.4,2,Basic
+Ebonee,Shaver,Christmas Island,26-09-1973,19501.25,4,Python
+Charlena,Geffner,Gambia,23-05-1998,17381.44,1,Python
+Aili,Raseda,Sudan,26-11-1979,6280.43,3,PHP
+Taffy,McNully,Afghanistan,14-04-1995,27937.09,3,C#
+Rebeca,Thomasina,Barbados,18-10-1984,19560.62,5,C#
+Rosanne,Dannye,Fiji,04-08-1977,16887.37,4,C#
+Selma,Flita,South Georgia and the South Sandwich Islands,21-09-1989,16843.95,4,SQL
+Aryn,Yoko,Cyprus,02-10-1994,10017.56,1,Basic
+Linzy,Delila,Kazakhstan,18-10-1970,11304.22,5,Python
+Randa,Celestine,Poland,09-05-1999,20381.01,3,Assembler
+Shandie,Old,Latvia,30-08-1992,21862.58,5,С++
+Joceline,Faria,Austria,05-02-1999,20167.79,1,Assembler
+Aaren,Eno,Bermuda,25-02-1987,21409.4,2,SQL
+Jinny,Docilla,Peru,06-02-1974,12036.3,1,SQL
+Marti,Devlen,French Southern Territories,08-05-1970,20557.06,3,Java
+Kaia,Phyllis,"Palestinian Territory, Occupied",02-07-1989,25997.52,4,Java
+Tamqrah,Jenness,Netherlands Antilles,16-08-1981,22033.3,3,PHP
+Joeann,Zaslow,Bhutan,26-02-1987,5955.8,3,Basic
+Ivett,Belldas,Belize,10-06-1989,29914.94,3,С++
+Wanda,Karna,"Cote D""Ivoire",28-05-1974,10091.26,3,Java
+Ardeen,Rubie,"Virgin Islands, British",27-08-1980,17097.97,1,SQL
+Karolina,Jerold,Nauru,02-11-1989,4093.2,1,Assembler
+Dianemarie,Winnick,Grenada,13-07-1971,2349.73,1,Basic
+Janenna,Ledah,Anguilla,05-10-1993,6066.16,2,PHP
+Brianna,Vilma,Argentina,16-02-1990,26523.02,2,SQL
+Korrie,Dichy,Kuwait,22-07-1990,16285.21,4,С++
+Rori,Selway,Nepal,01-11-1986,18052.3,2,С++
+Dennie,Margret,Germany,21-04-1990,11031.03,2,Perl
+Sonni,Cosenza,Faroe Islands,26-01-1976,1875.18,4,PHP
+Jacquetta,Thomasina,Qatar,13-04-1992,3077.77,3,Basic
+Merci,Donell,Seychelles,20-03-1971,7357.31,5,С++
+Claresta,Phi,Libyan Arab Jamahiriya,18-06-1971,9236.7,1,PHP
+Elyssa,Borrell,Armenia,02-04-1991,23942.03,3,C#
+Sindee,Maribeth,Israel,17-02-1983,2786.18,2,Basic
+Julieta,Crudden,Liberia,26-06-1995,23533.34,5,Basic
+Rosene,Cohdwell,Finland,02-05-1982,8595.15,3,Java
+Christal,Jess,Northern Mariana Islands,17-11-1977,18292.7,2,С++
+Flory,Tayib,Sri Lanka,23-11-1977,24246.74,2,Java
+Codie,Karylin,Venezuela,30-11-1997,12556.02,3,Basic
+Hope,Francyne,Mauritius,06-12-1984,19409.18,5,Java
+Chastity,Wilkinson,Svalbard and Jan Mayen,01-04-1993,9688.76,2,Java
+Randa,Robertson,Japan,24-09-1984,20350.89,4,С++
+Alie,Yorick,Equatorial Guinea,04-10-1982,6418.28,3,C#
+Lacie,Denis,Lithuania,08-09-1975,12739.22,1,Perl
+Aurelie,Sawtelle,Hong Kong,07-01-1973,15119.77,5,PHP
+Charlena,Letsou,Aruba,25-04-1981,12350.98,4,Basic
+Babita,McAdams,Honduras,25-04-1996,9252.33,1,Basic
+Britte,Chauncey,Niger,01-02-1995,29905.67,5,Perl
+Maud,Goldina,Finland,20-08-1973,23151.95,1,PHP
+Barbi,Belanger,Suriname,13-10-1997,16311.8,4,Perl
+Ingrid,Boehike,Tokelau,09-09-1980,3644.27,5,Python
+Jaime,Garek,"Iran, Islamic Republic Of",03-11-1974,22992.32,5,PHP
+Gwenneth,Alrich,Lithuania,25-09-1983,6943.88,1,SQL
+Emelina,Millda,Tokelau,31-08-1981,17471.49,1,Python
+Ingrid,Pillsbury,Oman,22-09-1976,18285.32,2,SQL
+Sarette,Guildroy,"Virgin Islands, British",19-12-1984,19343.4,1,Python
+Marita,Destinee,Australia,20-06-1987,22673.99,3,SQL
+Hayley,Dominy,Cambodia,09-12-1976,25148.24,5,PHP
+Corly,Rebecka,Belgium,02-11-1976,7566.28,5,C#
+Alisha,Christal,Saint Pierre and Miquelon,24-09-1986,11361.05,3,Java
+Feliza,Shanley,Paraguay,20-01-1972,11483.69,3,Java
+Mary,Rudolph,Sudan,30-04-1997,29169.41,4,SQL
+Tori,Erminia,Croatia,21-11-1996,23083.58,3,Java
+Robbi,Diogenes,Tuvalu,29-10-1976,18016.12,2,C#
+Tabbatha,Alva,American Samoa,27-01-1992,6473.46,3,C#
+Kenna,Mallon,Heard Island and Mcdonald Islands,08-07-1983,24723.86,4,PHP
+Pollyanna,Thomasina,Portugal,03-04-1995,24681.58,2,Java
+Tomasina,Bates,Japan,18-02-1982,4631.98,4,Assembler
+Constance,Milde,Italy,07-09-1989,28204.59,5,PHP
+Dale,Nikaniki,Dominican Republic,09-05-1993,21323.46,4,Assembler
+Shirlee,Lilas,Benin,13-12-1977,27342.85,5,С++
+Elise,Schwejda,Bhutan,14-03-1977,12417.41,3,Basic
+Sandie,Burkle,"Micronesia, Federated States of",15-12-1982,8494.23,5,С++
+Berget,O'Neill,Myanmar,25-08-1974,17680.07,5,Python
+Estell,Lorain,Grenada,18-01-1985,22747.97,2,Assembler
+Renie,Cookie,Peru,18-02-1971,7089.14,4,SQL
+Hollie,Anton,Guinea-Bissau,21-10-1984,13895.74,1,Java
+Gloria,Paine,Slovenia,06-04-1992,13493.01,1,Assembler
+Edyth,Mullane,Saint Helena,21-11-1978,7001.35,2,PHP
+Corene,Ursulette,Trinidad and Tobago,02-06-1974,2417.99,4,SQL
+Tierney,Forrer,Haiti,22-06-1999,13799.26,1,Assembler
+Joane,Adrienne,Congo,13-01-1999,12854,3,Perl
+Marinna,Natica,"Korea, Democratic People""S Republic of",04-01-1973,21606.88,3,C#
+Maryellen,Crudden,Slovenia,08-12-1975,12255.45,3,C#
+Dacia,Lay,Cayman Islands,20-09-1977,4898.03,1,SQL
+Susan,Othilia,Slovakia,11-08-1973,13241.14,4,Perl
+Iseabal,Roarke,Antigua and Barbuda,25-03-1979,8325.81,4,SQL
+Fredericka,Concha,Western Sahara,29-01-1970,2598.07,3,C#
+Helsa,Melan,Gambia,19-01-1985,12332.05,5,Python
+Delilah,Corrine,Morocco,29-11-1990,4856.62,2,PHP
+Phylis,Paton,Honduras,23-08-1974,18354.11,3,C#
+Emmey,Merriott,Zimbabwe,06-03-1990,20441.84,5,PHP
+Tina,Sophronia,Palau,20-10-1993,16561.6,5,Basic
+Hettie,Jacqui,United States Minor Outlying Islands,20-12-1977,3027.24,4,SQL
+Nanete,Valoniah,Mauritius,16-05-1985,25394.8,5,Perl
+Nariko,Anderea,Dominica,05-10-1971,5697.18,4,Basic
+Zsa Zsa,Faust,"Virgin Islands, U.S.",11-10-1997,23992.94,4,C#
+Halette,Pitt,Mongolia,14-08-1985,2022.92,3,C#
+Maurene,McAdams,Mauritius,08-11-1995,19507.83,4,Python
+Berta,Rad,Liechtenstein,25-09-1987,16714.85,2,C#
+Ida,Pandolfi,Netherlands Antilles,10-06-1992,29469.92,1,PHP
+Helsa,Verger,Åland Islands,24-11-1981,16060.31,4,Basic
+Gwyneth,Klotz,El Salvador,31-03-1976,5787.72,2,Assembler
+Merry,Baylor,Senegal,01-02-1973,23430.13,2,SQL
+Elie,Bearnard,Antarctica,22-04-1980,25564.57,4,Java
+Nataline,Monaco,Niue,04-10-1996,17283.16,5,Perl
+Alyda,Rozanna,Malawi,06-06-1973,26884.87,3,Java
+Cassondra,Bivins,Honduras,07-12-1984,20388.95,4,Java
+Roseline,Bethany,Mozambique,13-08-1984,27780.13,3,Basic
+Cecile,Carlson,Djibouti,16-11-1997,29954.84,2,Assembler
+Sybille,Jess,Jersey,02-06-1988,3524.43,3,Python
+Cyndie,Obed,Bosnia and Herzegovina,23-08-1973,10708.56,1,Basic
+Stephanie,Gilbertson,Sao Tome and Principe,22-12-1983,7465.91,3,Python
+Kerrin,Barrus,Belgium,21-07-1997,29384.2,5,PHP
+Maurene,Hashim,Saint Helena,21-08-1974,24597.53,3,Perl
+Tierney,Millda,Northern Mariana Islands,14-06-1985,4829.6,1,С++
+Paulita,Loring,Faroe Islands,09-02-1980,25387.64,4,Assembler
+Mary,Xerxes,Cook Islands,10-04-1995,14464.25,4,Java
+Queenie,Garrison,Malta,01-05-1984,25651.34,5,C#
+Rayna,Sundin,Jamaica,02-04-1981,4469.55,3,Python
+Tatiania,Felecia,Benin,13-12-1974,28732.72,2,Perl
+Britte,Holbrook,Lebanon,09-07-1997,17355.5,2,Assembler
+Marleah,Florina,Zambia,13-03-1975,23707.97,2,Perl
+Morganica,Annabella,Saudi Arabia,23-07-1991,8570.84,4,SQL
+Leona,Mauer,American Samoa,14-04-1996,23024.86,3,PHP
+Tina,Milde,Qatar,27-04-1999,15132.37,5,Perl
+Tamqrah,Sandye,"Virgin Islands, British",25-03-1996,12653.78,5,Python
+Lauryn,Carey,Hungary,22-06-1985,6809.88,5,Python
+Ariela,Sekofski,Chad,15-01-1976,9575.61,2,С++
+Jean,Gombach,Myanmar,01-04-1979,26690.38,3,Basic
+Larine,Colbert,Kuwait,30-09-1970,9086.98,4,Python
+Susette,Lia,Tokelau,02-01-1972,24987.19,4,Basic
+Darci,Alabaster,Kiribati,16-10-1997,29663.6,5,Basic
+Annecorinne,Helfand,Bangladesh,03-06-1992,26295.65,1,С++
+Elyssa,Fax,Madagascar,06-12-1984,2337.52,4,С++
+Winny,Phyllis,Netherlands Antilles,19-04-1975,1961.2,1,Basic
+Jillayne,Sabella,Japan,22-12-1973,27065.96,2,Python
+Sharlene,Ciapas,Guinea-Bissau,05-06-1983,6535.79,2,C#
+Lanna,Jefferey,Azerbaijan,14-11-1976,13706.11,5,Python
+Darlleen,Jacinda,Tunisia,25-02-1983,17464.89,3,PHP
+Meriel,Hanleigh,AndorrA,17-08-1989,28737.92,3,Assembler
+Nyssa,Maurine,Bhutan,02-07-1997,19903.21,4,Python
+Keelia,Claudine,Guatemala,01-03-1995,8099.44,4,Python
+Marylou,Erskine,Sri Lanka,22-02-1997,2015.85,1,Basic
+Carlie,Erminia,Pitcairn,16-03-1978,9375.15,3,Python
+Claresta,Nicoline,Serbia and Montenegro,08-03-1971,12195.7,5,Python
+Tomasina,Truc,Viet Nam,24-12-1979,5616.34,1,Perl
+Caritta,Lanita,Croatia,10-06-1971,19965.05,4,PHP
+Renae,Grimbly,Guernsey,17-09-1981,10195.65,2,Python
+Edith,Fleeta,Heard Island and Mcdonald Islands,21-03-1982,10553.25,4,Basic
+Miquela,Klemperer,Iceland,16-05-1998,25529.72,4,Java
+Oralee,Peonir,Thailand,07-03-1994,3072.1,4,PHP
+Nadine,Dash,Northern Mariana Islands,13-05-1986,7941.82,1,SQL
+Oona,Lasley,Pitcairn,16-05-1995,5592.02,4,C#
+Valli,Hutchison,Cook Islands,26-11-1970,6473.78,3,Basic
+Carly,Noam,Botswana,10-04-1974,16429.79,1,Java
+Leontine,Elvyn,Bulgaria,20-09-1986,8064.76,2,C#
+Linet,Durante,Chile,27-06-1997,23185.36,5,С++
+Elbertina,Kevon,Gabon,10-07-1995,20631.97,4,SQL
+Jean,Natica,Wallis and Futuna,02-03-1989,8760.44,2,Assembler
+Ekaterina,Natalia,Guyana,16-05-1975,11083.55,4,Assembler
+Angelique,Guildroy,Sweden,13-01-1987,14482.64,3,SQL
+Catrina,Hoenack,"Korea, Republic of",03-12-1978,1391.61,4,Basic
+Dorene,Lutero,Angola,28-03-1988,10832.33,4,SQL
+Katleen,Magnolia,Portugal,11-04-1997,17683.15,3,SQL
+Alisha,Havens,Saint Lucia,31-08-1981,12120.26,2,PHP
+Brianna,Stilwell,Tajikistan,30-03-1971,25173.53,3,С++
+Rochette,Borrell,Sudan,11-09-1986,11811.73,3,C#
+Cindelyn,Raul,United Arab Emirates,07-02-1981,16967.4,1,Java
+Betta,Gualtiero,Antarctica,21-03-1970,23178.02,2,PHP
+Zaria,Bivins,Hong Kong,03-11-1983,20206.35,5,Assembler
+Georgina,Charity,Cameroon,01-08-1999,19963.52,4,Assembler
+Jessamyn,Schenck,Burkina Faso,25-04-1984,22109,4,Java
+Noelle,Remmer,Monaco,13-11-1985,2751.25,4,Java
+Chrystel,Deny,Malta,22-04-1990,9436.64,3,Assembler
+Lory,Shirberg,Macao,18-07-1982,14788.56,4,PHP
+Chandra,Marlie,Malaysia,20-10-1986,16469.71,3,Java
+Concettina,Screens,Cayman Islands,12-02-1982,19918.46,4,SQL
+Jenda,Ioab,Svalbard and Jan Mayen,14-07-1980,2123.28,4,Basic
+Rozele,Adamsen,Argentina,26-08-1999,11140.7,4,С++
+Norine,Ventre,Equatorial Guinea,25-04-1986,1425.96,5,Perl
+Pierette,Reinke,Ethiopia,02-01-1991,22208.67,3,С++
+Marleah,Saint,American Samoa,01-05-1982,21013.3,5,Assembler
+Susette,Schalles,Armenia,29-10-1988,16660.25,3,Perl
+Meg,Morgun,Costa Rica,15-05-1990,25363.48,2,С++
+Caryl,Anis,Turkmenistan,11-03-1988,6509.06,1,С++
+Kenna,Neils,Guatemala,02-01-1997,15294.68,5,PHP
+Nollie,Toor,China,02-03-1981,8329.25,3,C#
+Alie,Trey,Haiti,16-05-1977,11280.89,5,PHP
+Sharai,Sandye,Lithuania,15-03-1975,6664.92,2,Java
+Ofilia,Bandeen,Lithuania,19-09-1979,19076.1,4,C#
+Bernie,Silvan,Oman,29-06-1993,11609.19,1,Perl
+Violet,Ramona,Marshall Islands,04-07-1975,4975.5,2,PHP
+Correy,Greyson,Sweden,12-09-1977,29301.87,2,Assembler
+Celestyna,Shirberg,Anguilla,12-08-1993,20532.65,5,SQL
+Amara,Suk,Jordan,02-12-1990,7982.13,5,Perl
+Joy,Means,United Arab Emirates,22-05-1974,18082.96,3,Perl
+Shandie,Behre,Maldives,17-07-1977,29525.3,3,С++
+Britte,Chick,Albania,03-06-1990,25587.49,2,Perl
+Mildrid,Darian,Czech Republic,13-07-1994,12696.59,4,Basic
+Dacia,Ammann,Lithuania,06-02-1983,18053.04,5,Java
+Ernesta,Buffum,Thailand,18-10-1971,11095.38,5,Java
+Gabi,Wenda,Mauritania,26-04-1999,4160.54,1,Assembler
+Jackie,Bryna,Finland,14-12-1988,25456.53,2,С++
+Madeleine,Bonucci,Italy,20-06-1980,25081.78,2,PHP
+Gertrud,Harned,Mauritius,27-11-1976,29286.61,5,Perl
+Basia,Mozelle,Saint Vincent and the Grenadines,12-11-1998,2064.36,1,Basic
+Mignon,Anton,Guadeloupe,09-07-1998,8477.53,3,Assembler
+Asia,Diogenes,Cocos (Keeling) Islands,16-07-1983,17937.63,3,Assembler
+Nannie,Karl,Norfolk Island,20-12-1996,22056.17,4,Python
+Tierney,Cherianne,Mexico,23-10-1978,9564.78,5,C#
+Lynde,Chesna,Guinea-Bissau,14-05-1997,1471.77,4,Java
+Concettina,Ade,New Zealand,26-06-1983,24982.68,2,Java
+Tarra,Fax,Kiribati,01-05-1999,14196.6,2,SQL
+Helena,Levey,Czech Republic,24-12-1974,1884.28,3,Perl
+Shell,Denis,Honduras,14-03-1976,24764.46,4,C#
+Pearline,Girardo,Jersey,21-04-1975,14010.51,5,Assembler
+Teddie,Arquit,Solomon Islands,11-12-1978,14479.57,5,Assembler
+Annecorinne,Parsaye,Uruguay,19-05-1977,20581.1,1,C#
+Elbertina,Sheedy,Bhutan,19-11-1995,7023.57,2,SQL
+Sindee,Dash,Iraq,07-10-1984,11687.99,4,Perl
+Kial,Tound,Isle of Man,09-06-1986,15291.07,1,Assembler
+Zia,Ietta,Anguilla,24-08-1974,29058.75,2,С++
+Caressa,Nelsen,Svalbard and Jan Mayen,01-02-1978,13956.35,1,Basic
+Norine,Levey,Saint Lucia,11-12-1973,8058.21,4,C#
+Roxane,Torray,Jersey,15-08-1992,4520.75,5,SQL
+Blake,Dex,Faroe Islands,12-07-1983,20700,4,Java
+Emilia,Autrey,Falkland Islands (Malvinas),17-11-1990,21730.23,2,PHP
+Valeda,Alwin,South Africa,16-08-1972,24544.83,3,Assembler
+Georgina,Bigner,United Arab Emirates,24-04-1994,29256.37,5,Assembler
+Adriana,Stover,Chad,22-11-1973,21215.92,4,Assembler
+Molli,Sholley,Mayotte,30-09-1973,11537.72,2,PHP
+Farrah,Rosemary,Malaysia,23-11-1976,25687.89,3,Basic
+Pamella,Janene,Cambodia,25-06-1975,2196.93,1,Basic
+Cyndie,Miru,Denmark,06-01-1983,29615.98,5,Assembler
+Alyssa,Mandler,Tonga,27-12-1981,12019.48,1,Java
+Jere,Sherfield,Mayotte,03-06-1994,11974.7,2,SQL
+Merry,Nea,Kenya,18-03-1977,3744.5,2,Java
+Nananne,Donell,Djibouti,08-10-1974,3517.67,3,SQL
+Alejandra,Annice,Mauritania,04-03-1975,16880.96,4,Basic
+Kittie,Waite,Lithuania,09-01-1996,2925.23,3,PHP
+Nariko,Hubert,Niger,30-04-1982,26846.43,4,SQL
+Amii,Infield,Viet Nam,12-09-1975,11801.52,3,Java
+Adelle,Dermott,Kuwait,12-11-1976,3612.39,5,Python
+Queenie,Elvyn,"Micronesia, Federated States of",06-02-1990,24921.05,5,Perl
+Konstance,Miru,Wallis and Futuna,01-08-1992,2068,1,С++
+Concettina,Kravits,Saint Kitts and Nevis,30-08-1991,20472.25,1,Python
+Roxane,Thunell,Saint Lucia,02-12-1976,14078.72,3,SQL
+Evita,Brotherson,Syrian Arab Republic,24-06-1970,20354.8,4,С++
+Carolina,Morrill,Lesotho,08-01-1980,17317.8,3,Python
+Jorry,Tremayne,Cocos (Keeling) Islands,22-04-1998,22089.66,1,Python
+Leona,Daegal,Isle of Man,26-06-1997,24712.88,4,Perl
+Mary,Yerkovich,Barbados,03-02-1976,29593.91,5,PHP
+Gwyneth,Oster,Poland,09-02-1986,22577.57,5,Basic
+Jacquetta,Nedrud,Libyan Arab Jamahiriya,07-09-1992,13317.55,2,Python
+Tami,Trey,Cambodia,18-10-1985,14787.56,5,Perl
+Mignon,Zaslow,Tokelau,06-05-1976,13093.16,4,Basic
+Jinny,Fleeta,Syrian Arab Republic,24-08-1983,27105.25,3,Basic
+Dale,Willie,Malawi,26-06-1983,22341.3,4,SQL
+Maurene,Lia,Holy See (Vatican City State),28-11-1998,26298.22,2,Perl
+Verla,Allina,New Zealand,04-10-1993,25018.57,2,Basic
+Adriana,Burnside,Sweden,30-12-1997,17713.57,3,SQL
+Marnia,Zamora,Viet Nam,12-05-1997,5070.92,5,Perl
+Hollie,Rheingold,Thailand,15-02-1997,17847.07,2,Perl
+Fanchon,Ball,Angola,07-01-1986,5607.79,2,Assembler
+Darci,Prober,Papua New Guinea,30-08-1976,18699.76,5,Basic
+Shaine,Mayeda,French Guiana,07-08-1984,26165.48,2,C#
+Trudie,Argus,Turkey,13-04-1998,9138.5,4,Java
+Millie,Bergman,Bahamas,02-05-1973,25315.15,2,Basic
+Karena,Miru,Pitcairn,07-01-1986,5647.28,1,SQL
+Maye,Braun,Azerbaijan,02-11-1997,27362.39,2,PHP
+Leia,Lane,Togo,29-12-1978,15088.74,1,SQL
+Fina,Artie,Reunion,02-04-1987,28008.67,1,C#
+Giustina,Willie,Saint Vincent and the Grenadines,09-01-1975,10191.75,2,С++
+Corly,Konyn,China,08-11-1997,8696.5,2,Java
+Paola,Alejoa,Holy See (Vatican City State),04-04-1997,12992.85,4,С++
+Ninnetta,Kermit,Italy,09-12-1972,22757.67,4,C#
+Shel,Seessel,Bermuda,28-01-1973,2665.12,3,Basic
+Shauna,Campball,Sudan,15-01-1996,24827.75,2,С++
+Joeann,Ledah,Kuwait,14-05-1993,9590.9,4,Perl
+Gloria,Karl,Namibia,17-01-1981,5099.93,3,SQL
+Bernardine,Carey,Kuwait,26-01-1991,22906.67,4,C#
+Brandise,Adalbert,Tuvalu,02-05-1996,3809.48,4,Assembler
+Vevay,Henrie,Pakistan,04-12-1991,9227.08,5,PHP
+Susette,Hashim,Puerto Rico,21-12-1995,24434.28,3,C#
+Aurelie,Swanhildas,Ecuador,31-01-1988,3269.09,1,Java
+Rosaline,Behre,Saudi Arabia,05-04-1977,28494.3,1,Assembler
+Roxane,Magdalen,Gabon,28-01-1997,19402.57,4,Assembler
+Elvira,Tjon,Burundi,20-03-1976,8872.85,2,Assembler
+Kirbee,Saint,Netherlands Antilles,10-07-1997,11222.99,5,C#
+Mady,Ursulette,Liechtenstein,12-07-1985,16200.13,2,Java
+Eadie,Therine,French Guiana,10-08-1976,8974.56,5,PHP
+Vere,Brunell,South Georgia and the South Sandwich Islands,05-09-1989,25852.98,4,Basic
+Eugine,Kermit,Chile,10-02-1981,16933.13,4,PHP
+Aryn,Ashely,Mexico,19-03-1982,3889.89,4,SQL
+Letizia,Malanie,Netherlands Antilles,02-06-1986,3472.46,3,SQL
+Collen,Georgy,Grenada,29-08-1976,22479.64,3,Python
+Jaclyn,Freddi,Finland,28-08-1972,7063.9,1,Java
+Gusella,Frendel,Myanmar,04-01-1993,24062.66,3,Perl
+Meriel,Argus,Senegal,09-11-1979,6013.82,3,Basic
+Loree,Papageno,Fiji,09-05-1975,15501.19,2,Basic
+Heida,Gusella,Czech Republic,18-10-1979,15126.94,5,SQL
+Kylynn,Dearborn,Guyana,23-07-1989,5258.26,1,SQL
+Max,Sheedy,Kenya,17-09-1987,11324.23,1,Perl
+Lusa,Hebner,Niger,27-08-1979,19072.45,5,SQL
+Jenilee,Radu,Guatemala,19-08-1981,20991.55,2,Perl
+Theodora,Edison,French Guiana,06-08-1984,11076.66,4,Basic
+Rosene,Iaverne,Antigua and Barbuda,15-01-1980,29245.59,2,Perl
+Rori,Henrie,Puerto Rico,07-06-1975,17767.46,5,С++
+Ulrike,Read,Chile,03-01-1987,24418.74,2,Python
+Averyl,Mayeda,Brazil,02-03-1970,23116.58,5,Assembler
+Chere,Yusuk,Barbados,11-11-1983,13800.18,4,PHP
+Helena,Juliet,Kenya,09-04-1982,27163.34,1,Perl
+Amalie,Ferino,Mexico,11-09-1983,18178.99,1,Perl
+Sheree,Grosz,Mayotte,15-05-1985,21894.88,2,Assembler
+Christal,Westphal,Zimbabwe,19-02-1978,28490.8,5,Basic
+Leanna,Bandeen,Australia,27-03-1971,6128.03,1,PHP
+Fanchon,Bigner,Guam,05-06-1992,3715.88,2,SQL
+Jacenta,Fiester,Reunion,12-12-1975,23785.96,5,С++
+Adore,Nickola,Belgium,02-10-1990,16604.44,5,С++
+Ethel,Skurnik,Iraq,10-02-1982,4803.76,4,Perl
+Elfreda,Aldric,Ethiopia,20-10-1979,25339.56,1,Python
+Loree,Celestine,Montserrat,05-02-1975,12112.77,5,Assembler
+Libbie,Iaverne,Cook Islands,09-12-1991,17430.66,3,Python
+Karina,Kellby,British Indian Ocean Territory,08-04-1994,10215.29,5,Basic
+Linet,Dannye,Solomon Islands,01-04-1970,15791.54,3,SQL
+Joceline,Ogren,British Indian Ocean Territory,03-05-1973,9507.95,4,Java
+Philis,Pearse,Central African Republic,29-04-1990,29375.83,1,Assembler
+Hettie,Ciapas,Burkina Faso,13-09-1989,24693.18,2,Perl
+Brena,Thema,"Congo, The Democratic Republic of the",01-03-1996,11931.81,2,Java
+Mariele,Stephie,Faroe Islands,29-07-1987,27236.58,2,Basic
+Concettina,Sundin,Aruba,06-07-1993,5562.25,2,Perl
+Sheree,Nadia,Liberia,04-05-1987,5539.29,4,C#
+Sonni,Annabella,Cocos (Keeling) Islands,25-11-1988,18242.94,1,С++
+Mara,Vins,Canada,18-09-1978,10533.98,5,SQL
+Daphne,Audly,Comoros,02-03-1990,5685.52,3,Perl
+Frank,Edee,Panama,10-07-1993,25792.81,5,Perl
+Riannon,Screens,Tokelau,18-12-1986,9983.8,1,Python
+Ardeen,Koehler,Niger,07-10-1976,10515.39,1,Assembler
+Frances,Roscoe,Saudi Arabia,22-05-1998,11290.81,2,Basic
+Mignon,Carvey,Kyrgyzstan,31-08-1987,27611.3,2,SQL
+Hyacinthe,Marisa,Holy See (Vatican City State),24-07-1982,15057.73,1,Java
+Viviene,Joeann,Cook Islands,06-02-1974,29012.51,4,Python
+Orsola,Old,Denmark,21-11-1973,1985.77,5,Perl
+Gerianna,Llovera,Iraq,18-06-1976,11212.64,4,Java
+Lyssa,Whiffen,Falkland Islands (Malvinas),31-10-1973,20048.42,1,Python
+Aaren,Felizio,Latvia,03-07-1985,18078.67,5,Python
+Janey,Smitt,Qatar,17-12-1980,13774.49,3,Python
+Suzette,Soneson,Guinea,30-09-1987,1959.3,1,Basic
+Nita,Revkah,"Lao People""S Democratic Republic",06-03-1999,26288.11,4,C#
+Antonietta,Magdalen,"Micronesia, Federated States of",18-12-1995,15104.91,1,Perl
+Marika,Himelman,Afghanistan,13-11-1981,22979.25,2,С++
+Eve,Nerita,United Kingdom,28-02-1992,27684.88,2,Java
+Briney,Jacobah,Denmark,05-07-1995,20800.01,4,PHP
+Fanny,Tryck,Maldives,22-11-1978,13896.01,2,Python
+Jolyn,Isidore,Mauritius,02-08-1976,26201.28,3,PHP
+Clo,Mandler,Palau,06-02-1977,26592.84,5,Assembler
+Catharine,Argus,Christmas Island,20-11-1975,5449.92,2,C#
+Zondra,Judye,Svalbard and Jan Mayen,27-04-1981,17930.96,1,Python
+Larine,Merat,Guyana,29-09-1988,27950.67,1,C#
+Penelopa,Tice,Ghana,14-09-1997,10253.42,2,Java
+Clo,Yoko,Canada,18-03-1991,24046.44,2,Basic
+Ayn,Kaja,Nauru,29-07-1972,14159.42,5,Perl
+Ana,Alwin,Saudi Arabia,06-03-1990,16251.09,4,Assembler
+Ricky,Virgin,Zimbabwe,13-03-1991,4960.51,4,PHP
+Marcy,Seessel,Czech Republic,09-01-1977,19072.26,3,С++
+Charlena,Clarissa,Iraq,09-03-1976,8020.43,5,Assembler
+Almeta,Vale,Ghana,07-10-1990,3879.79,2,С++
+Coral,Brenn,Algeria,16-02-1995,14082.21,3,C#
+Jean,Huggins,Jersey,04-04-1995,16817.05,3,Perl
+Wilma,Rosalba,Chad,22-01-1985,10344.46,1,Perl
+Hallie,Cavan,Uzbekistan,22-03-1982,12801.89,2,Basic
+Doro,Suk,Japan,02-07-1988,29659.22,3,С++
+Lorne,Stefa,"Korea, Democratic People""S Republic of",26-05-1988,7176.32,1,Python
+Ardeen,Rubie,Jordan,07-10-1974,24471.71,3,С++
+Hollie,Raychel,Netherlands Antilles,27-09-1981,26110,3,Assembler
+Adore,Cimbura,Luxembourg,03-09-1984,15188.42,4,Python
+Dorice,Ochs,Nepal,30-12-1979,23645.41,4,PHP
+Catharine,Liebermann,Switzerland,06-09-1994,25645.96,3,Python
+Kelly,Mitzi,Panama,04-10-1993,10127.82,2,C#
+Ursulina,Sinegold,Bosnia and Herzegovina,18-01-1983,25175.09,2,C#
+Marinna,Dituri,Monaco,26-05-1983,10023,2,PHP
+Emelina,Jammal,Benin,28-12-1980,8124.32,1,Python
+Josephine,Thunell,Cook Islands,24-10-1982,23050.7,5,C#
+Lisette,Stav,Christmas Island,24-02-1986,12661.33,3,SQL
+Gloria,Sheng,Mongolia,15-05-1999,16805.69,2,C#
+Kimberley,Maxi,Argentina,06-02-1982,15323.02,5,Assembler
+Roxane,Shirberg,Hong Kong,20-01-1980,7010.41,1,Assembler
+Nickie,Ahab,Iceland,03-08-1970,12453.41,5,Java
+Alejandra,Thad,Norfolk Island,12-02-1989,3503.02,3,Perl
